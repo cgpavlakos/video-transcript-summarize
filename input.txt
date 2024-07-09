@@ -1,0 +1,8217 @@
+1
+00:00:27,504 --> 00:00:45,168
+You
+
+2
+00:00:56,208 --> 00:00:58,032
+please welcome to the stage.
+
+3
+00:00:58,224 --> 00:00:59,328
+Juan Loaiza,
+
+4
+00:01:08,208 --> 00:01:09,648
+everyone hope you're having a
+
+5
+00:01:09,984 --> 00:01:10,848
+great show. I
+
+6
+00:01:11,808 --> 00:01:14,112
+see a lot of people here this year. It's
+really
+
+7
+00:01:15,984 --> 00:01:17,376
+getting a lot of attention going
+
+8
+00:01:17,808 --> 00:01:19,824
+talking about a lot of great technologies.
+
+9
+00:01:20,688 --> 00:01:24,288
+So today I'm going to talk about some
+really exciting technologies because
+
+10
+00:01:24,288 --> 00:01:27,840
+there's some big changes happening in the
+world of data and aptiv,
+
+11
+00:01:28,280 --> 00:01:29,080
+and that's what
+
+12
+00:01:29,136 --> 00:01:30,144
+I'm going to talk about the day.
+
+13
+00:01:30,144 --> 00:01:32,016
+The future of data and appdev.
+
+14
+00:01:32,592 --> 00:01:33,504
+So what is it?
+
+15
+00:01:33,600 --> 00:01:35,376
+What's the future of data and appdev?
+
+16
+00:01:35,936 --> 00:01:36,736
+Well,
+
+17
+00:01:36,816 --> 00:01:38,016
+it's all about
+
+18
+00:01:38,112 --> 00:01:41,040
+enabling radical increases in
+productivity,
+
+19
+00:01:41,808 --> 00:01:43,632
+and I'm going to get into a lot of detail
+on this.
+
+20
+00:01:43,632 --> 00:01:44,832
+So how's it going to happen?
+
+21
+00:01:46,704 --> 00:01:50,016
+Really, it's going to be about generating
+data solutions
+
+22
+00:01:50,112 --> 00:01:51,408
+instead of hand-coding.
+
+23
+00:01:51,552 --> 00:01:54,720
+So those are the that's the big picture,
+the very, very big picture.
+
+24
+00:01:55,584 --> 00:01:57,648
+So we're going to generate
+
+25
+00:01:58,080 --> 00:01:58,992
+to innovate,
+
+26
+00:02:00,960 --> 00:02:03,984
+and we're going to use 3 transformational
+strategies.
+
+27
+00:02:04,800 --> 00:02:07,920
+One is to generate youth-centric data,
+
+28
+00:02:08,160 --> 00:02:10,560
+and I'm going to go into a good bit of
+detail on this.
+
+29
+00:02:11,280 --> 00:02:14,112
+The 2nd is we're going to generate apps
+altogether,
+
+30
+00:02:15,120 --> 00:02:16,368
+and the 3rd
+
+31
+00:02:16,464 --> 00:02:19,920
+is that we're going to get a lot of
+productivity from generative ai.
+
+32
+00:02:20,448 --> 00:02:22,416
+So I'm going to talk about each of these
+in turn.
+
+33
+00:02:22,800 --> 00:02:24,240
+So, 1st of all,
+
+34
+00:02:24,432 --> 00:02:25,584
+today
+
+35
+00:02:25,824 --> 00:02:26,880
+all the parties
+
+36
+00:02:26,976 --> 00:02:28,272
+in the world of data
+
+37
+00:02:29,088 --> 00:02:30,096
+need to tell
+
+38
+00:02:30,432 --> 00:02:34,704
+their data systems not just what they
+want, but also how to do it,
+
+39
+00:02:35,424 --> 00:02:38,304
+and soon they'll simply declare their
+intended outcome
+
+40
+00:02:38,352 --> 00:02:40,272
+and the data systems will generate them.
+
+41
+00:02:42,096 --> 00:02:46,992
+So where is each of these parties in their
+transformation to generating solutions
+
+42
+00:02:47,184 --> 00:02:48,720
+based on declarative intent,
+
+43
+00:02:49,392 --> 00:02:53,280
+while the critical parties for the 1st
+strategy that generate youth-centric
+
+44
+00:02:53,280 --> 00:02:56,640
+data are basically data professionals and
+developers?
+
+45
+00:02:56,736 --> 00:02:57,840
+So let's start with them,
+
+46
+00:02:58,512 --> 00:03:01,104
+so data professionals are the farthest
+along in their.
+
+47
+00:03:02,640 --> 00:03:03,984
+Let's take a very quick look
+
+48
+00:03:04,320 --> 00:03:06,144
+at the journey of data professionals. So
+
+49
+00:03:06,432 --> 00:03:09,264
+initially, when the world started, at the
+beginning of the world,
+
+50
+00:03:09,264 --> 00:03:12,000
+we had 2 kinds of databases, hierarchical
+databases
+
+51
+00:03:12,288 --> 00:03:13,728
+and network databases,
+
+52
+00:03:14,352 --> 00:03:15,744
+and in both of these
+
+53
+00:03:16,560 --> 00:03:17,856
+apps were accessed
+
+54
+00:03:17,952 --> 00:03:19,344
+access data
+
+55
+00:03:19,632 --> 00:03:22,608
+using hand-coded navigation of storage
+formats.
+
+56
+00:03:23,192 --> 00:03:23,992
+And then
+
+57
+00:03:24,000 --> 00:03:26,016
+ii f, cotton revolutionized data
+management
+
+58
+00:03:26,016 --> 00:03:27,456
+with the relational model, which is
+
+59
+00:03:27,696 --> 00:03:29,760
+based on declarative intent.
+
+60
+00:03:30,480 --> 00:03:32,208
+And there's 3 main benefits.
+
+61
+00:03:32,208 --> 00:03:33,888
+I'm going, I'm going to come back to these
+
+62
+00:03:34,224 --> 00:03:35,376
+because it's going to come back
+
+63
+00:03:35,472 --> 00:03:36,864
+in the developer. World
+
+64
+00:03:37,488 --> 00:03:38,304
+number one
+
+65
+00:03:38,544 --> 00:03:43,680
+is that apps access data using data
+values, the values in the database,
+
+66
+00:03:43,776 --> 00:03:45,600
+not by hand-coded navigation
+
+67
+00:03:46,464 --> 00:03:47,520
+number 2,
+
+68
+00:03:48,192 --> 00:03:52,464
+and actually the big advantage of that is
+that changes to the way data is stored
+
+69
+00:03:52,944 --> 00:03:53,760
+or optimized.
+
+70
+00:03:53,760 --> 00:03:54,624
+Don't break data
+
+71
+00:03:54,768 --> 00:03:57,696
+because you're not navigating the actual
+storage format.
+
+72
+00:03:57,696 --> 00:03:58,944
+You're just looking at the data.
+
+73
+00:03:59,328 --> 00:04:00,240
+Number 2 is.
+
+74
+00:04:00,288 --> 00:04:03,312
+There's no more need for inconsistant
+copies of data,
+
+75
+00:04:03,552 --> 00:04:07,344
+because data values need to be stored only
+once that's called normalization.
+
+76
+00:04:07,776 --> 00:04:08,832
+And number 3.
+
+77
+00:04:08,880 --> 00:04:10,128
+Relational databases
+
+78
+00:04:10,208 --> 00:04:11,008
+generate
+
+79
+00:04:11,088 --> 00:04:13,056
+access based on declarative intent.
+
+80
+00:04:13,248 --> 00:04:14,976
+So, using sequel
+
+81
+00:04:15,264 --> 00:04:17,712
+that data, the user intends to access,
+
+82
+00:04:18,288 --> 00:04:19,200
+and the database
+
+83
+00:04:19,760 --> 00:04:20,560
+database. The
+
+84
+00:04:22,032 --> 00:04:23,136
+using sequel
+
+85
+00:04:23,232 --> 00:04:26,208
+sequel declares that data the user intends
+to access, and
+
+86
+00:04:26,208 --> 00:04:29,040
+the database generates an optimal
+execution plan,
+
+87
+00:04:29,184 --> 00:04:33,984
+and using secretly also get very powerful
+joins, which are a way to composing data.
+
+88
+00:04:34,376 --> 00:04:35,176
+Okay,
+
+89
+00:04:35,376 --> 00:04:38,304
+so that's it. That's what I'm going to say
+about beta professionals.
+
+90
+00:04:38,352 --> 00:04:40,272
+Data professionals are very far long.
+
+91
+00:04:40,512 --> 00:04:42,576
+They are the 1st to generate to innovate,
+
+92
+00:04:43,248 --> 00:04:47,088
+and the huge productivity gains from
+generating data access
+
+93
+00:04:47,184 --> 00:04:48,288
+using declarative
+
+94
+00:04:48,368 --> 00:04:49,168
+data intent
+
+95
+00:04:49,440 --> 00:04:51,072
+made relational the market leader.
+
+96
+00:04:51,792 --> 00:04:53,040
+All right. So let's move on.
+
+97
+00:04:53,136 --> 00:04:54,864
+What about developers?
+
+98
+00:04:55,392 --> 00:04:58,272
+In the world of development, things are
+very different.
+
+99
+00:04:59,264 --> 00:05:00,064
+So
+
+100
+00:05:00,336 --> 00:05:01,680
+the concepts
+
+101
+00:05:01,824 --> 00:05:04,176
+of apps storing data is a hierarchy
+
+102
+00:05:04,416 --> 00:05:05,280
+and network
+
+103
+00:05:05,424 --> 00:05:07,392
+have been brought back by developers.
+
+104
+00:05:07,968 --> 00:05:12,912
+So document and key value databases are
+kind of a hierarchical database,
+
+105
+00:05:13,440 --> 00:05:15,696
+and graph databases are kind of like
+
+106
+00:05:15,792 --> 00:05:17,232
+a network databases.
+
+107
+00:05:17,856 --> 00:05:18,864
+Now they're not the same.
+
+108
+00:05:18,864 --> 00:05:21,168
+These are different from their
+predecessors,
+
+109
+00:05:21,408 --> 00:05:23,808
+but they share some of the same drawbacks.
+
+110
+00:05:24,912 --> 00:05:28,128
+So if that's the case, then why have these
+concepts returned?
+
+111
+00:05:28,752 --> 00:05:30,960
+Well, the reason is that normalized
+
+112
+00:05:31,104 --> 00:05:32,304
+relational data,
+
+113
+00:05:32,592 --> 00:05:35,280
+while it's fantastic from a data
+management perspective,
+
+114
+00:05:35,280 --> 00:05:37,104
+which is what I just talked about,
+
+115
+00:05:37,392 --> 00:05:38,880
+it's not always convenient
+
+116
+00:05:38,976 --> 00:05:40,272
+for app developers,
+
+117
+00:05:41,184 --> 00:05:42,192
+and therefore
+
+118
+00:05:42,336 --> 00:05:44,880
+they don't like to use it as much. So I'm
+
+119
+00:05:44,976 --> 00:05:47,472
+going to walk through an example of how
+this works. So
+
+120
+00:05:47,712 --> 00:05:50,112
+imagine we've been asked to build an app
+
+121
+00:05:50,688 --> 00:05:51,600
+that creates
+
+122
+00:05:51,696 --> 00:05:53,280
+a student course schedule,
+
+123
+00:05:53,568 --> 00:05:55,056
+so it looks something like this.
+
+124
+00:05:55,104 --> 00:05:57,072
+You have the student's schedule here for
+Jill.
+
+125
+00:05:57,072 --> 00:06:01,392
+She's a math major stake in 2 classes,
+math to a 1 in science one or 2.
+
+126
+00:06:01,728 --> 00:06:03,216
+It's got a time room and a teacher
+
+127
+00:06:03,360 --> 00:06:04,848
+so very simple app.
+
+128
+00:06:05,624 --> 00:06:06,424
+Now,
+
+129
+00:06:06,432 --> 00:06:09,408
+with relational, the way you build this is
+you need
+
+130
+00:06:09,504 --> 00:06:10,752
+a schema with for table.
+
+131
+00:06:10,752 --> 00:06:12,336
+So you got a student table,
+
+132
+00:06:12,480 --> 00:06:13,680
+of course, schedule
+
+133
+00:06:14,016 --> 00:06:17,616
+a student courses that maps the student to
+the courses and a teacher table.
+
+134
+00:06:18,384 --> 00:06:21,312
+This is great from a data management
+perspective,
+
+135
+00:06:21,680 --> 00:06:22,480
+because
+
+136
+00:06:22,800 --> 00:06:25,728
+you have storage, independence, data
+consistency,
+
+137
+00:06:25,728 --> 00:06:28,128
+declared a queries all that stuff I just
+talked about.
+
+138
+00:06:29,376 --> 00:06:33,216
+And the api for the relational model
+returns data as rows.
+
+139
+00:06:33,216 --> 00:06:35,952
+So the rows for student schedule can be
+fetched
+
+140
+00:06:35,952 --> 00:06:38,544
+in a single query by joining out for these
+tables.
+
+141
+00:06:38,784 --> 00:06:41,088
+So you write a single statement joins m
+you get the schedule,
+
+142
+00:06:41,408 --> 00:06:42,208
+okay.
+
+143
+00:06:42,384 --> 00:06:44,160
+That sounds pretty good.
+
+144
+00:06:44,592 --> 00:06:45,552
+But
+
+145
+00:06:45,936 --> 00:06:46,848
+the rows
+
+146
+00:06:46,992 --> 00:06:48,336
+are not always convenient
+
+147
+00:06:48,672 --> 00:06:50,304
+for data. That's hierarchical.
+
+148
+00:06:50,400 --> 00:06:53,136
+So hierarchical data when you read it and
+join
+
+149
+00:06:53,568 --> 00:06:56,592
+it, repeats the upper levels of the
+hierarchy, so you can see there.
+
+150
+00:06:56,832 --> 00:06:57,984
+You have the roads with
+
+151
+00:06:58,176 --> 00:07:00,528
+the 2 classes, but they repeat a bunch of
+data.
+
+152
+00:07:00,528 --> 00:07:02,688
+The student ID, the student named the
+major.
+
+153
+00:07:03,360 --> 00:07:06,048
+So you get redundancy in the result,
+
+154
+00:07:06,480 --> 00:07:09,552
+and at the application level, you have to
+sort all that out. So it's
+
+155
+00:07:09,840 --> 00:07:11,568
+not as convenient as it could be.
+
+156
+00:07:12,480 --> 00:07:15,216
+So this is why developers, like
+
+157
+00:07:15,648 --> 00:07:17,328
+hierarchical models like Jason,
+
+158
+00:07:17,664 --> 00:07:19,680
+when the data is naturally high, cabal
+
+159
+00:07:19,920 --> 00:07:22,656
+because it provides an easier api for
+apps.
+
+160
+00:07:22,704 --> 00:07:24,240
+That one hierarchical data.
+
+161
+00:07:24,864 --> 00:07:28,992
+So you can see on the left there what the
+Jason document looks like
+
+162
+00:07:29,280 --> 00:07:30,240
+all the data
+
+163
+00:07:30,336 --> 00:07:33,072
+that's in that screen is in that one
+document.
+
+164
+00:07:33,072 --> 00:07:34,464
+Yet the student name the major,
+
+165
+00:07:34,848 --> 00:07:37,680
+and then you have the schedule with the 2
+classes.
+
+166
+00:07:37,680 --> 00:07:38,496
+So it's all there.
+
+167
+00:07:38,496 --> 00:07:40,080
+It's all contained in one document.
+
+168
+00:07:40,368 --> 00:07:42,624
+And the nice thing from a developer point
+of view
+
+169
+00:07:43,152 --> 00:07:45,504
+is that you can simply get the document.
+
+170
+00:07:45,552 --> 00:07:46,608
+You got all the data you need.
+
+171
+00:07:46,608 --> 00:07:47,568
+It's all in one package.
+
+172
+00:07:47,568 --> 00:07:48,480
+You display it.
+
+173
+00:07:48,672 --> 00:07:50,976
+If you want to change anything, you edit
+the document
+
+174
+00:07:50,976 --> 00:07:53,040
+and you just put it back into the
+database.
+
+175
+00:07:53,376 --> 00:07:55,392
+So, from a developer perspective,
+
+176
+00:07:55,680 --> 00:07:56,880
+this is really nice,
+
+177
+00:07:58,208 --> 00:07:59,008
+and
+
+178
+00:07:59,136 --> 00:08:00,432
+you know, we've recognized that
+
+179
+00:08:00,672 --> 00:08:03,456
+in the relational world, to so to support
+
+180
+00:08:03,600 --> 00:08:06,960
+these applications that want this kind of
+hierarchical format.
+
+181
+00:08:07,200 --> 00:08:09,984
+We've added Jason as a native data type,
+
+182
+00:08:10,128 --> 00:08:13,200
+to the Oracle database and to relational
+databases in general.
+
+183
+00:08:13,872 --> 00:08:17,040
+And the benefit of that is that a single
+database now
+
+184
+00:08:17,040 --> 00:08:19,488
+has both relational and document data,
+
+185
+00:08:20,016 --> 00:08:22,560
+and that allows it to provide the benefits
+of both.
+
+186
+00:08:22,808 --> 00:08:23,608
+Okay,
+
+187
+00:08:23,664 --> 00:08:25,152
+so that sounds very nice.
+
+188
+00:08:26,400 --> 00:08:28,032
+But there's still a problem, which is
+
+189
+00:08:28,128 --> 00:08:29,952
+when you store data
+
+190
+00:08:30,192 --> 00:08:31,680
+as json documents,
+
+191
+00:08:31,968 --> 00:08:33,504
+there are some downsides.
+
+192
+00:08:34,368 --> 00:08:36,912
+So all hierarchical storage models
+
+193
+00:08:37,248 --> 00:08:39,840
+suffer from data duplication issues,
+
+194
+00:08:40,128 --> 00:08:42,768
+and this is easy to show with this
+example. So
+
+195
+00:08:43,152 --> 00:08:45,168
+all the students taking a course
+
+196
+00:08:45,360 --> 00:08:48,864
+have a copy of the course schedule and the
+teacher information,
+
+197
+00:08:48,960 --> 00:08:52,176
+which makes updates expensive and risky,
+so you see there
+
+198
+00:08:52,752 --> 00:08:54,048
+we have 2 students
+
+199
+00:08:54,576 --> 00:08:57,360
+in each of them is taking math to a 1,
+
+200
+00:08:57,600 --> 00:09:01,392
+which means all that data is duplicated
+across every student, so that the
+
+201
+00:09:01,728 --> 00:09:02,832
+the course the teacher.
+
+202
+00:09:03,216 --> 00:09:06,432
+And what it means is, let's say, I want to
+change the room for that class
+
+203
+00:09:07,008 --> 00:09:08,928
+well as adjacent developer.
+
+204
+00:09:09,264 --> 00:09:12,000
+I have to go find every student taking
+this class and
+
+205
+00:09:12,000 --> 00:09:14,736
+I gotta go update the document in every
+student.
+
+206
+00:09:15,456 --> 00:09:17,424
+And I have to do that in some atomic
+fashion.
+
+207
+00:09:17,424 --> 00:09:20,064
+And if I ever forget to do it, then the
+data gets out of sync.
+
+208
+00:09:21,792 --> 00:09:22,656
+And the 2nd.
+
+209
+00:09:22,800 --> 00:09:24,720
+This advantage of storing things in Jason.
+
+210
+00:09:24,720 --> 00:09:25,680
+Is that a
+
+211
+00:09:25,872 --> 00:09:27,840
+sequel on relation lead us far more
+
+212
+00:09:27,840 --> 00:09:29,712
+powerful because you're composing table,
+that
+
+213
+00:09:29,856 --> 00:09:32,400
+it's a much more powerful language for
+querying data
+
+214
+00:09:33,264 --> 00:09:34,800
+allright. So there's these downsides,
+
+215
+00:09:35,328 --> 00:09:36,336
+and today
+
+216
+00:09:36,480 --> 00:09:39,408
+the way app that works is you have to pick
+
+217
+00:09:39,648 --> 00:09:40,896
+one storage model
+
+218
+00:09:40,904 --> 00:09:41,704
+for data.
+
+219
+00:09:42,000 --> 00:09:42,912
+So you pick
+
+220
+00:09:43,104 --> 00:09:44,448
+so I want tables.
+
+221
+00:09:44,688 --> 00:09:45,744
+Do I want Jason,
+
+222
+00:09:45,984 --> 00:09:47,136
+do I want graph?
+
+223
+00:09:48,048 --> 00:09:49,344
+And once you've picked
+
+224
+00:09:50,112 --> 00:09:53,856
+that storage model determines everything
+about how data's use.
+
+225
+00:09:54,192 --> 00:09:55,872
+So if you pick Jason,
+
+226
+00:09:56,112 --> 00:09:59,040
+you get Jason operations, you get adjacent
+language.
+
+227
+00:09:59,040 --> 00:10:00,288
+You get chasing apis.
+
+228
+00:10:00,288 --> 00:10:01,344
+If you pick relational,
+
+229
+00:10:01,536 --> 00:10:03,024
+you get relational operations.
+
+230
+00:10:03,024 --> 00:10:05,328
+You get relational language, you get
+relationship. Yeah. So
+
+231
+00:10:05,520 --> 00:10:07,296
+these became separate worlds
+
+232
+00:10:07,584 --> 00:10:08,784
+where everything is different.
+
+233
+00:10:08,784 --> 00:10:13,200
+So you pick one model, and now everything
+is different depending on that 1st choice.
+
+234
+00:10:13,568 --> 00:10:14,368
+Okay,
+
+235
+00:10:14,880 --> 00:10:16,416
+so that's not so good.
+
+236
+00:10:16,416 --> 00:10:18,336
+So this is the thing that we've been
+working on
+
+237
+00:10:18,432 --> 00:10:19,968
+how to unify all these things.
+
+238
+00:10:20,016 --> 00:10:22,128
+How do we avoid all these downsides?
+
+239
+00:10:23,088 --> 00:10:24,816
+And the breakthrough idea
+
+240
+00:10:25,056 --> 00:10:27,216
+is to enable developers
+
+241
+00:10:27,504 --> 00:10:31,344
+to declare data usage intent instead of
+storage format.
+
+242
+00:10:31,536 --> 00:10:32,880
+So tell us what you want.
+
+243
+00:10:33,168 --> 00:10:34,704
+Don't tell us how to store the data.
+
+244
+00:10:35,184 --> 00:10:37,056
+That's basically that's the high level
+idea.
+
+245
+00:10:38,688 --> 00:10:40,944
+If you declare the data usage intent,
+
+246
+00:10:41,040 --> 00:10:43,728
+then the database can generate the format
+in
+
+247
+00:10:43,728 --> 00:10:46,128
+apis that are best for each app use case,
+
+248
+00:10:46,512 --> 00:10:48,288
+and I can explain how this works.
+
+249
+00:10:48,432 --> 00:10:49,440
+But 1st of all,
+
+250
+00:10:49,536 --> 00:10:50,976
+the key thing here is that
+
+251
+00:10:51,072 --> 00:10:52,608
+by using intent,
+
+252
+00:10:53,040 --> 00:10:54,864
+that's all we need
+
+253
+00:10:55,104 --> 00:10:58,608
+to extend cod's vision of apps being
+independent of storage
+
+254
+00:10:58,848 --> 00:11:01,104
+to apps that prefer using data
+
+255
+00:11:01,200 --> 00:11:02,496
+as either a hierarchy
+
+256
+00:11:02,552 --> 00:11:03,352
+or a network
+
+257
+00:11:04,752 --> 00:11:07,968
+allright. So in this new world, the
+database can generate
+
+258
+00:11:08,160 --> 00:11:10,032
+the app's preferred usage format,
+
+259
+00:11:10,712 --> 00:11:11,512
+while
+
+260
+00:11:11,664 --> 00:11:12,864
+most of the data
+
+261
+00:11:12,960 --> 00:11:14,880
+is stored in the format.
+
+262
+00:11:14,880 --> 00:11:16,896
+That's best for query, ability and
+
+263
+00:11:16,896 --> 00:11:18,672
+consistency, which we talked about, which
+is
+
+264
+00:11:19,152 --> 00:11:21,120
+a normalized relational format. In terms
+of
+
+265
+00:11:21,408 --> 00:11:22,752
+reducing redundancy,
+
+266
+00:11:22,848 --> 00:11:25,248
+improving consistency make an equitable.
+That's
+
+267
+00:11:25,584 --> 00:11:27,360
+generally the best storage format,
+
+268
+00:11:27,824 --> 00:11:28,624
+but
+
+269
+00:11:28,800 --> 00:11:30,336
+you know, it's not perfect for everything.
+
+270
+00:11:30,336 --> 00:11:33,360
+There's also cases where the scheme was
+dynamic or revolving,
+
+271
+00:11:33,360 --> 00:11:35,856
+where you want to store data as Jason, and
+we can do that as well.
+
+272
+00:11:37,040 --> 00:11:37,840
+All right.
+
+273
+00:11:38,736 --> 00:11:40,272
+So today, going back,
+
+274
+00:11:40,896 --> 00:11:42,384
+there's really 2 languages.
+
+275
+00:11:42,384 --> 00:11:43,728
+In a relational database,
+
+276
+00:11:44,016 --> 00:11:45,840
+there is a data definition language,
+
+277
+00:11:46,128 --> 00:11:49,152
+and that specifies how data is organized.
+
+278
+00:11:49,680 --> 00:11:51,888
+And then there's a data manipulation
+language which
+
+279
+00:11:51,888 --> 00:11:53,904
+specifies how data is read and written.
+
+280
+00:11:54,192 --> 00:11:55,632
+But it's all about rose.
+
+281
+00:11:56,592 --> 00:11:58,320
+What it's missing today
+
+282
+00:11:58,464 --> 00:12:01,104
+is a language to declare the usage format.
+
+283
+00:12:01,152 --> 00:12:03,024
+The best aligns with Egypt use case.
+
+284
+00:12:03,024 --> 00:12:04,080
+So there's nothing to say.
+
+285
+00:12:04,176 --> 00:12:07,200
+Hey, I want to use this as Jason, I want
+to use this as Braff,
+
+286
+00:12:07,824 --> 00:12:09,504
+and so that's what we're going to fill in
+
+287
+00:12:09,792 --> 00:12:12,048
+in our new generation of database.
+
+288
+00:12:12,720 --> 00:12:16,560
+So a data int 10 language actually is in
+sequel
+
+289
+00:12:16,704 --> 00:12:18,432
+it exists. It's called views
+
+290
+00:12:18,912 --> 00:12:19,920
+and views.
+
+291
+00:12:19,920 --> 00:12:22,176
+Declare the intent to use a combination of
+data
+
+292
+00:12:22,176 --> 00:12:24,096
+from multiple tables, so it combines
+multiple.
+
+293
+00:12:24,240 --> 00:12:26,592
+Basically, runs a query that combines
+multiple tables
+
+294
+00:12:26,784 --> 00:12:28,416
+and produces a single result.
+
+295
+00:12:29,040 --> 00:12:32,784
+However, the relational views are limited
+to operating on rose
+
+296
+00:12:32,864 --> 00:12:33,664
+and
+
+297
+00:12:33,696 --> 00:12:35,760
+using row api, so they don't
+
+298
+00:12:35,856 --> 00:12:37,920
+they don't really get us what we want.
+They
+
+299
+00:12:38,064 --> 00:12:40,032
+are good for relational, but they don't
+get us what we
+
+300
+00:12:40,032 --> 00:12:41,904
+want with these other kinds of formats.
+
+301
+00:12:43,056 --> 00:12:44,016
+Now
+
+302
+00:12:44,640 --> 00:12:46,944
+what we're doing is we're introducing
+something
+
+303
+00:12:46,944 --> 00:12:49,008
+new, called Jason relational duality,
+
+304
+00:12:49,536 --> 00:12:52,080
+and I'm going to describe
+
+305
+00:12:52,320 --> 00:12:55,776
+how we can extend the date intent language
+to include Jason documents.
+
+306
+00:12:55,776 --> 00:12:56,688
+I'd like you to welcome
+
+307
+00:12:56,880 --> 00:12:59,424
+Gerald benzyl, whose our lead product
+manager
+
+308
+00:12:59,520 --> 00:13:00,768
+for developer initiatives.
+
+309
+00:13:00,816 --> 00:13:01,680
+Who's going to describe
+
+310
+00:13:08,936 --> 00:13:09,736
+Gerald
+
+311
+00:13:14,744 --> 00:13:15,544
+alright?
+
+312
+00:13:16,368 --> 00:13:17,520
+So, as one said,
+
+313
+00:13:17,712 --> 00:13:22,656
+chaisson relational duality fuse, which
+are new in Oracle database 23 C,
+
+314
+00:13:22,896 --> 00:13:29,088
+enable Oracle databases to generate json
+format and apis from relational tables
+
+315
+00:13:29,280 --> 00:13:30,768
+so that you get what you see there is.
+
+316
+00:13:30,768 --> 00:13:32,400
+I give her a bunch of relational tables,
+
+317
+00:13:32,736 --> 00:13:35,376
+and you would like to get chasing out of
+database.
+
+318
+00:13:35,904 --> 00:13:37,008
+How do we do that?
+
+319
+00:13:37,664 --> 00:13:38,464
+Well?
+
+320
+00:13:38,544 --> 00:13:41,088
+The structure of the duality view
+
+321
+00:13:41,232 --> 00:13:43,152
+mirrors the structure
+
+322
+00:13:43,344 --> 00:13:45,648
+of the chase and document that he wants,
+which
+
+323
+00:13:45,792 --> 00:13:48,192
+makes it super easy to define these
+
+324
+00:13:48,480 --> 00:13:51,408
+by using familiar graph ql syntax.
+
+325
+00:13:51,792 --> 00:13:53,136
+So what do you see here again?
+
+326
+00:13:53,136 --> 00:13:54,336
+On the right-hand side,
+
+327
+00:13:54,576 --> 00:13:57,696
+you have this chase and document for
+students scheduled chill
+
+328
+00:13:57,840 --> 00:13:59,136
+that we have seen before,
+
+329
+00:13:59,424 --> 00:14:00,720
+and on the left-hand side
+
+330
+00:14:01,008 --> 00:14:05,040
+you see the ddl to define the chase and
+duality of you to give you
+
+331
+00:14:05,232 --> 00:14:06,960
+that student's schedule
+
+332
+00:14:07,056 --> 00:14:08,112
+looks very similar.
+
+333
+00:14:09,408 --> 00:14:10,320
+Now.
+
+334
+00:14:10,560 --> 00:14:13,296
+The few itself simply specifies
+
+335
+00:14:13,488 --> 00:14:16,128
+the tables that contain the data that
+
+336
+00:14:16,128 --> 00:14:18,624
+we want, right, so we want the student's
+schedule.
+
+337
+00:14:18,960 --> 00:14:20,784
+So we started with the student table
+
+338
+00:14:20,976 --> 00:14:24,528
+and then we traverse to the student
+courses, courses and teachers.
+
+339
+00:14:24,912 --> 00:14:27,984
+So this is how we get the hierarchy of the
+document.
+
+340
+00:14:28,904 --> 00:14:29,704
+Next,
+
+341
+00:14:30,144 --> 00:14:31,872
+the view specifies
+
+342
+00:14:32,064 --> 00:14:33,600
+the table columns
+
+343
+00:14:33,696 --> 00:14:36,528
+that holds the values that we want
+exposed,
+
+344
+00:14:36,528 --> 00:14:38,592
+as Jason attributes the actual data
+
+345
+00:14:38,832 --> 00:14:39,936
+that we going to see,
+
+346
+00:14:40,176 --> 00:14:41,664
+and the chasing document.
+
+347
+00:14:43,440 --> 00:14:46,176
+Jason duality views are simple to query.
+
+348
+00:14:46,272 --> 00:14:48,432
+Using document, apis
+
+349
+00:14:48,864 --> 00:14:52,560
+applications can use standard rest api,
+get
+
+350
+00:14:52,992 --> 00:14:54,768
+commands or api calls
+
+351
+00:14:55,008 --> 00:14:57,408
+to get a document from the database,
+
+352
+00:14:57,936 --> 00:14:59,712
+or they could use the mongol
+
+353
+00:14:59,952 --> 00:15:02,928
+mongodb compatible api that we have or a
+plain
+
+354
+00:15:02,928 --> 00:15:05,808
+sequel, whatever the application the
+developer prefers.
+
+355
+00:15:07,536 --> 00:15:08,544
+Likewise,
+
+356
+00:15:08,832 --> 00:15:12,720
+updating this duality views or this
+chasing documents in the database
+
+357
+00:15:12,816 --> 00:15:14,064
+is also simple.
+
+358
+00:15:14,592 --> 00:15:18,720
+Applications just added the Jason
+documents that they got
+
+359
+00:15:18,912 --> 00:15:20,304
+and then do arrest.
+
+360
+00:15:20,352 --> 00:15:23,040
+A put api back to the duality view
+
+361
+00:15:23,424 --> 00:15:24,432
+alright, a backroom.
+
+362
+00:15:24,432 --> 00:15:26,976
+I'm going to be compatible api or sequel
+again,
+
+363
+00:15:27,216 --> 00:15:30,192
+whatever the application or the developer
+wants to do.
+
+364
+00:15:30,816 --> 00:15:35,616
+The important part of this is that the
+database, as part of the update,
+
+365
+00:15:36,096 --> 00:15:39,552
+automatically detects the changes made
+
+366
+00:15:39,744 --> 00:15:40,848
+to the document
+
+367
+00:15:41,136 --> 00:15:44,448
+and only modifies the rows that have
+changed.
+
+368
+00:15:44,880 --> 00:15:47,856
+So we don't have to write back the entire
+document
+
+369
+00:15:48,144 --> 00:15:49,488
+or the entire dataset.
+
+370
+00:15:49,488 --> 00:15:50,880
+We only change
+
+371
+00:15:51,024 --> 00:15:52,752
+the values that have actually been changed
+
+372
+00:15:52,752 --> 00:15:54,480
+by the application, which gives you, of
+course,
+
+373
+00:15:54,816 --> 00:15:57,408
+a big performance boost as well.
+
+374
+00:15:58,416 --> 00:16:01,104
+Duality allows Jason documents to include
+
+375
+00:16:01,296 --> 00:16:02,640
+any data
+
+376
+00:16:02,880 --> 00:16:04,320
+that is convenient for the app.
+
+377
+00:16:04,464 --> 00:16:05,904
+So it's an Oracle database.
+
+378
+00:16:06,240 --> 00:16:09,120
+You may have spatial later and it you may
+have drafted and
+
+379
+00:16:09,456 --> 00:16:11,040
+Jason as WhatsApp before.
+
+380
+00:16:11,040 --> 00:16:12,144
+Of course, relational.
+
+381
+00:16:12,336 --> 00:16:14,400
+You can expose all that data
+
+382
+00:16:14,640 --> 00:16:17,904
+and to you're chasing documents via
+chasing duality views.
+
+383
+00:16:18,288 --> 00:16:20,352
+But again, the important thing here is
+
+384
+00:16:20,544 --> 00:16:21,984
+that the duality views
+
+385
+00:16:22,080 --> 00:16:23,856
+never duplicate data,
+
+386
+00:16:23,912 --> 00:16:24,712
+because
+
+387
+00:16:24,816 --> 00:16:28,752
+underneath the data is stored and
+normalized tables,
+
+388
+00:16:29,376 --> 00:16:30,960
+and that in itself
+
+389
+00:16:31,248 --> 00:16:34,704
+is a massive benefits for other
+applications that share
+
+390
+00:16:34,800 --> 00:16:35,712
+the same data.
+
+391
+00:16:35,760 --> 00:16:38,352
+So we have here again the student's
+scheduled for chill
+
+392
+00:16:38,544 --> 00:16:39,456
+and Lucas,
+
+393
+00:16:39,648 --> 00:16:42,288
+both going through this math to a 1 class
+
+394
+00:16:42,528 --> 00:16:44,784
+and the data he is still looks duplicate.
+
+395
+00:16:44,976 --> 00:16:47,904
+Duplicate it, because we have these to
+chase and documents,
+
+396
+00:16:48,144 --> 00:16:49,872
+but they are not in the database.
+
+397
+00:16:49,872 --> 00:16:51,744
+They coming out of relational tables.
+
+398
+00:16:51,984 --> 00:16:55,152
+So if we want to update the teacher as
+oneself before
+
+399
+00:16:55,440 --> 00:16:57,072
+we can just simply do one,
+
+400
+00:16:57,216 --> 00:16:59,040
+puts operation on
+
+401
+00:16:59,280 --> 00:17:01,008
+the teacher information
+
+402
+00:17:01,200 --> 00:17:02,640
+and swap it out for everybody,
+
+403
+00:17:02,736 --> 00:17:04,368
+and every application
+
+404
+00:17:04,560 --> 00:17:06,288
+will see that data
+
+405
+00:17:06,480 --> 00:17:07,680
+changed reflective.
+
+406
+00:17:08,304 --> 00:17:09,984
+And because any data
+
+407
+00:17:10,128 --> 00:17:10,992
+can be
+
+408
+00:17:11,088 --> 00:17:12,816
+included in documents,
+
+409
+00:17:13,392 --> 00:17:14,640
+duality provides
+
+410
+00:17:14,784 --> 00:17:16,416
+better chase than 2 apps
+
+411
+00:17:16,752 --> 00:17:18,816
+than any document database out there.
+
+412
+00:17:18,816 --> 00:17:19,968
+That only gives you Jason
+
+413
+00:17:22,080 --> 00:17:25,200
+the autumn. Nice. Benefit for developers
+is that chasing duality
+
+414
+00:17:25,200 --> 00:17:28,176
+views allow the same underlying data
+
+415
+00:17:28,416 --> 00:17:29,712
+to be customized,
+
+416
+00:17:29,952 --> 00:17:32,544
+to match the needs of each application
+
+417
+00:17:32,688 --> 00:17:34,512
+or the use case of the application.
+
+418
+00:17:34,992 --> 00:17:38,928
+So, let's say, we have a student schedule
+micro-service that we have seen before.
+
+419
+00:17:38,928 --> 00:17:40,800
+We give your students schedule to chill.
+
+420
+00:17:41,040 --> 00:17:43,104
+But we probably also want a micro-service
+to
+
+421
+00:17:43,104 --> 00:17:44,976
+tell the teacher when and where to show
+up.
+
+422
+00:17:44,976 --> 00:17:47,040
+Otherwise, the course will be pretty daft.
+Right,
+
+423
+00:17:47,328 --> 00:17:49,632
+so he can create another duality of you
+
+424
+00:17:49,824 --> 00:17:53,568
+to just expose the information that the
+teacher needs
+
+425
+00:17:53,856 --> 00:17:54,672
+to go
+
+426
+00:17:54,816 --> 00:17:56,784
+to the right room, giving the right class.
+
+427
+00:17:56,784 --> 00:17:58,800
+The teacher doesn't necessarily need the
+information
+
+428
+00:17:58,800 --> 00:18:00,528
+about all the students, so we can omit
+that.
+
+429
+00:18:00,768 --> 00:18:02,784
+And likewise, you probably need somebody
+
+430
+00:18:02,976 --> 00:18:03,792
+who wants to,
+
+431
+00:18:03,984 --> 00:18:05,040
+who decides
+
+432
+00:18:05,184 --> 00:18:08,304
+which courses a teacher should give, so
+like a course curriculum.
+
+433
+00:18:08,448 --> 00:18:10,752
+So we write another micro-service for
+that. And again,
+
+434
+00:18:10,992 --> 00:18:13,008
+we have another duality view
+
+435
+00:18:13,248 --> 00:18:14,928
+on the same underlying
+
+436
+00:18:15,648 --> 00:18:16,896
+tables or data
+
+437
+00:18:17,040 --> 00:18:19,104
+to expose just that information.
+
+438
+00:18:19,736 --> 00:18:20,536
+Again,
+
+439
+00:18:20,672 --> 00:18:21,472
+the data
+
+440
+00:18:21,648 --> 00:18:23,040
+is never duplicated.
+
+441
+00:18:23,040 --> 00:18:25,440
+We cannot stress this enough, because this
+is the huge downside
+
+442
+00:18:25,440 --> 00:18:27,408
+with our archaic, a format that you don't
+have him,
+
+443
+00:18:27,752 --> 00:18:28,552
+and hence
+
+444
+00:18:28,608 --> 00:18:30,720
+you also have it always consistent.
+
+445
+00:18:31,104 --> 00:18:32,640
+So all of these the fly, your
+
+446
+00:18:32,736 --> 00:18:36,528
+use case, flexibility, no data
+duplication, always consistent,
+
+447
+00:18:36,864 --> 00:18:40,560
+are all huge benefits for application
+development. Overall,
+
+448
+00:18:42,624 --> 00:18:48,432
+using duality developers can also add new
+document centric applications on top of
+
+449
+00:18:48,672 --> 00:18:50,016
+existing relational data.
+
+450
+00:18:50,064 --> 00:18:54,048
+So you all probably have existing Oracle
+databases with a lot of data in them.
+
+451
+00:18:54,576 --> 00:18:59,184
+All you need to do to take advantage of
+chasing dualities, upgrade to 23 C,
+
+452
+00:18:59,472 --> 00:19:02,352
+and you can start exposing the data via
+Jason
+
+453
+00:19:02,352 --> 00:19:04,944
+relational duality of use or at these new
+
+454
+00:19:05,088 --> 00:19:09,216
+documents, centric apis and use cases to
+your existing data
+
+455
+00:19:09,416 --> 00:19:10,216
+as well.
+
+456
+00:19:12,096 --> 00:19:14,112
+A lot of people think that
+
+457
+00:19:14,256 --> 00:19:18,912
+document databases are the fastest and
+best to process Jason documents.
+
+458
+00:19:18,912 --> 00:19:21,408
+They are purpose built, database, single
+purpose.
+
+459
+00:19:21,408 --> 00:19:23,568
+You know they have. They must be the best
+thing there, because
+
+460
+00:19:23,952 --> 00:19:25,104
+that is their use case, right.
+
+461
+00:19:25,104 --> 00:19:26,112
+That's what they were built for. It
+
+462
+00:19:26,976 --> 00:19:28,416
+was actually not true.
+
+463
+00:19:28,608 --> 00:19:29,904
+Duality delivers
+
+464
+00:19:30,096 --> 00:19:31,680
+faster Jason
+
+465
+00:19:31,824 --> 00:19:33,552
+than document databases.
+
+466
+00:19:33,888 --> 00:19:37,536
+Duality views give you better latency for
+oltp.
+
+467
+00:19:37,872 --> 00:19:40,608
+They give you better and faster analytics.
+
+468
+00:19:40,896 --> 00:19:44,496
+Anti, provide automatic parallelization
+and optimisation.
+
+469
+00:19:45,216 --> 00:19:46,080
+So, yes,
+
+470
+00:19:46,272 --> 00:19:47,664
+it is really true.
+
+471
+00:19:47,856 --> 00:19:50,976
+Duality is much faster than documents
+stores
+
+472
+00:19:51,312 --> 00:19:54,144
+and key values to us as a matter of fact,
+and if you don't believe me,
+
+473
+00:19:54,432 --> 00:19:56,976
+please go ahead, download 23 C and try it
+out yourself.
+
+474
+00:19:58,560 --> 00:20:02,928
+Dualities also vastly superior to object
+relational mapping, because it
+
+475
+00:20:02,928 --> 00:20:07,104
+provides an architect and simplicity that
+is built into the database,
+
+476
+00:20:07,488 --> 00:20:10,128
+rather than it's being an ease of use.
+
+477
+00:20:10,176 --> 00:20:11,568
+Glued-on Leah, like an
+
+478
+00:20:12,288 --> 00:20:16,176
+object-relational library or framework
+that he used in your application.
+
+479
+00:20:17,040 --> 00:20:21,264
+Transactional consistency between row
+updates and document updates
+
+480
+00:20:21,552 --> 00:20:26,064
+are automatically provided by database, by
+the database, using a new
+
+481
+00:20:26,256 --> 00:20:27,840
+lock free mechanism
+
+482
+00:20:27,936 --> 00:20:29,664
+or lock-free concurrency model,
+
+483
+00:20:30,480 --> 00:20:32,064
+and deep integration of the new
+
+484
+00:20:32,144 --> 00:20:32,944
+mechanism
+
+485
+00:20:33,168 --> 00:20:36,000
+with database. Curious replication and
+many many more,
+
+486
+00:20:36,240 --> 00:20:40,704
+make this an ultra-powerful new technology
+as part of chasing, relation or duality.
+
+487
+00:20:42,272 --> 00:20:43,072
+The other thing
+
+488
+00:20:43,344 --> 00:20:46,848
+that duality view allows you to do, or as
+a developer, they
+
+489
+00:20:47,088 --> 00:20:49,104
+are super easy to adopt.
+
+490
+00:20:49,584 --> 00:20:51,360
+So because the transformation
+
+491
+00:20:51,600 --> 00:20:55,056
+to chasing is centralized in the database
+itself,
+
+492
+00:20:55,920 --> 00:20:59,424
+duality views can be leveraged by any
+application
+
+493
+00:20:59,816 --> 00:21:00,616
+written in
+
+494
+00:21:00,720 --> 00:21:01,776
+any language.
+
+495
+00:21:02,160 --> 00:21:03,408
+You need nothing
+
+496
+00:21:03,600 --> 00:21:05,040
+in the applications here,
+
+497
+00:21:05,616 --> 00:21:09,264
+and if you already have existing chase
+documents today,
+
+498
+00:21:09,504 --> 00:21:13,584
+we also allow you to take those existing
+chase and documents, and the database
+
+499
+00:21:13,584 --> 00:21:16,560
+will transform them into relational tables
+for you,
+
+500
+00:21:16,704 --> 00:21:18,912
+so that you kind of get a head-start of
+what
+
+501
+00:21:19,296 --> 00:21:22,416
+a relational structure, the best
+relational structure for the duality.
+
+502
+00:21:22,416 --> 00:21:24,336
+If you, for the chase and document would
+look like
+
+503
+00:21:24,960 --> 00:21:28,800
+as a side benefit of the rest, apis, you
+also get
+
+504
+00:21:29,184 --> 00:21:32,736
+the benefits that data is now accessed in
+a single round trip.
+
+505
+00:21:32,976 --> 00:21:35,712
+Will you go through the database in a
+single metric round trip?
+
+506
+00:21:36,000 --> 00:21:38,544
+Often or oem systems, as the composer
+
+507
+00:21:38,736 --> 00:21:41,088
+Jason documents or the application
+objects.
+
+508
+00:21:41,376 --> 00:21:45,264
+They need multiple rounds, reps to the
+student table, to the course table,
+
+509
+00:21:45,456 --> 00:21:47,088
+to teach your table and so forth.
+
+510
+00:21:47,312 --> 00:21:48,112
+Incurring
+
+511
+00:21:48,144 --> 00:21:50,016
+multiple network hopes to the database.
+
+512
+00:21:50,688 --> 00:21:53,136
+Now hope you excited about chasing duality
+fuse.
+
+513
+00:21:53,136 --> 00:21:56,400
+I will hand it back now to want to
+continue this amazing journey of
+
+514
+00:21:56,400 --> 00:21:59,424
+innovation at the Oracle database and use
+its customers are on.
+
+515
+00:21:59,616 --> 00:22:00,576
+Thank you very much,
+
+516
+00:22:06,528 --> 00:22:08,256
+all right.
+
+517
+00:22:08,256 --> 00:22:09,072
+Thanks, Cheryl. I think
+
+518
+00:22:09,168 --> 00:22:10,464
+you did a great job
+
+519
+00:22:11,232 --> 00:22:12,288
+describing
+
+520
+00:22:12,912 --> 00:22:14,688
+what Jason duality is and
+
+521
+00:22:15,024 --> 00:22:15,936
+how it works,
+
+522
+00:22:16,464 --> 00:22:19,056
+and how you define it, and it's really
+simple to define.
+
+523
+00:22:19,056 --> 00:22:21,648
+That's kind of one of the beautiful things
+about it.
+
+524
+00:22:21,936 --> 00:22:23,040
+Another thing is
+
+525
+00:22:24,240 --> 00:22:26,352
+a lot of developers they don't want to.
+
+526
+00:22:26,496 --> 00:22:27,696
+They don't wanna create a schema.
+
+527
+00:22:27,696 --> 00:22:28,848
+They just want to start coding,
+
+528
+00:22:29,376 --> 00:22:31,440
+and so we also have a mechanism where they
+can just
+
+529
+00:22:31,728 --> 00:22:35,088
+write Jason documents out, and at some
+point, if they choose to,
+
+530
+00:22:35,424 --> 00:22:37,872
+we can basically derive the schema from
+
+531
+00:22:37,872 --> 00:22:40,272
+the adjacent documents and create tables
+and
+
+532
+00:22:40,656 --> 00:22:43,344
+dualities, so we can actually convert back
+and forth
+
+533
+00:22:43,584 --> 00:22:45,648
+the same data from Jason's a relational,
+
+534
+00:22:45,888 --> 00:22:48,384
+and we can automate that whole process. So
+
+535
+00:22:48,608 --> 00:22:49,408
+it really,
+
+536
+00:22:49,440 --> 00:22:51,552
+it provides the best of both worlds,
+
+537
+00:22:52,352 --> 00:22:53,152
+and
+
+538
+00:22:54,576 --> 00:22:56,688
+you know. One thing I want to mention is
+
+539
+00:22:57,408 --> 00:22:58,464
+I've been
+
+540
+00:22:58,704 --> 00:22:59,616
+in the data
+
+541
+00:22:59,792 --> 00:23:00,592
+field for
+
+542
+00:23:01,152 --> 00:23:02,064
+3 decades,
+
+543
+00:23:02,744 --> 00:23:03,544
+and
+
+544
+00:23:04,080 --> 00:23:05,424
+this is a big deal.
+
+545
+00:23:06,240 --> 00:23:07,776
+You know. What we're doing here
+
+546
+00:23:07,968 --> 00:23:10,032
+is we're unifying the worlds
+
+547
+00:23:10,608 --> 00:23:11,760
+of documents
+
+548
+00:23:12,480 --> 00:23:13,728
+and relational
+
+549
+00:23:14,160 --> 00:23:15,024
+and graph,
+
+550
+00:23:16,464 --> 00:23:17,568
+and also objects.
+
+551
+00:23:18,240 --> 00:23:21,024
+So these have been separate worlds for a
+long time,
+
+552
+00:23:21,936 --> 00:23:23,328
+and we're putting them all together.
+
+553
+00:23:23,760 --> 00:23:27,024
+So everything works seamlessly together
+and you get the best of everything.
+
+554
+00:23:27,216 --> 00:23:29,952
+You get the consistency, the query ability
+
+555
+00:23:30,096 --> 00:23:31,008
+of relational,
+
+556
+00:23:31,200 --> 00:23:33,552
+with all the power and simplicity of
+Jason. So
+
+557
+00:23:33,792 --> 00:23:35,616
+this is a really big deal. So one thing
+
+558
+00:23:35,856 --> 00:23:37,440
+I would ask us to go back
+
+559
+00:23:37,632 --> 00:23:39,264
+and tell everyone else about this.
+
+560
+00:23:39,888 --> 00:23:41,808
+You're going to remember this a few years
+from now.
+
+561
+00:23:41,808 --> 00:23:43,920
+You say, hey, I was at cloud world
+
+562
+00:23:44,160 --> 00:23:46,896
+in 2023 when this was introduced because
+is going to go through.
+
+563
+00:23:46,896 --> 00:23:49,008
+This is going to be an industry-wide
+transition.
+
+564
+00:23:49,008 --> 00:23:49,824
+That's going to happen.
+
+565
+00:23:50,688 --> 00:23:52,560
+It really is the next generation
+
+566
+00:23:52,896 --> 00:23:55,632
+of data management, of data science, and
+
+567
+00:23:55,824 --> 00:23:56,736
+you can read their
+
+568
+00:23:56,928 --> 00:23:57,744
+idc.
+
+569
+00:23:57,744 --> 00:23:59,712
+You know. A lot of the industry analysts
+have
+
+570
+00:23:59,712 --> 00:24:01,632
+been around for a lot of years, also
+agree.
+
+571
+00:24:01,632 --> 00:24:03,024
+This is a huge deal.
+
+572
+00:24:03,024 --> 00:24:05,136
+This is a giant transformation. That's
+happening,
+
+573
+00:24:05,744 --> 00:24:06,544
+okay.
+
+574
+00:24:07,056 --> 00:24:08,112
+So we talked about Jason.
+
+575
+00:24:08,112 --> 00:24:10,032
+Let me. Let me talk a little bit about
+graph.
+
+576
+00:24:10,320 --> 00:24:13,920
+So we can also generate graph access, and
+that's something we've done now
+
+577
+00:24:14,400 --> 00:24:17,088
+with our new property graph use in
+
+578
+00:24:17,376 --> 00:24:18,864
+database 23 C.
+
+579
+00:24:19,064 --> 00:24:19,864
+So
+
+580
+00:24:19,968 --> 00:24:24,144
+graphs are basically a powerful way to
+query connections and relationship
+
+581
+00:24:24,144 --> 00:24:27,696
+between data, so you can kind of follow
+links across vertices and edges.
+
+582
+00:24:28,464 --> 00:24:31,056
+And what property graph fees do
+
+583
+00:24:31,200 --> 00:24:33,456
+is they allow you to declare intent
+
+584
+00:24:33,840 --> 00:24:34,992
+to treat data
+
+585
+00:24:35,136 --> 00:24:37,248
+as vertices or edges in a graph.
+
+586
+00:24:37,872 --> 00:24:39,408
+And the example here is
+
+587
+00:24:39,600 --> 00:24:41,136
+suppose I'm a bank
+
+588
+00:24:41,520 --> 00:24:42,912
+and I wanted discover
+
+589
+00:24:43,056 --> 00:24:46,176
+whether anyone transferred money from bank
+account b
+
+590
+00:24:46,320 --> 00:24:47,760
+to bank account e
+
+591
+00:24:47,952 --> 00:24:49,008
+through multiple,
+
+592
+00:24:49,104 --> 00:24:50,304
+through multiple hops.
+
+593
+00:24:51,072 --> 00:24:52,416
+So there's a lot of reasons to do that.
+
+594
+00:24:52,416 --> 00:24:54,528
+You might be looking for fraud or
+something like that.
+
+595
+00:24:54,608 --> 00:24:55,408
+This is
+
+596
+00:24:55,440 --> 00:24:57,024
+quite difficult to
+
+597
+00:24:57,120 --> 00:24:58,320
+query in
+
+598
+00:24:58,592 --> 00:24:59,392
+relation
+
+599
+00:24:59,520 --> 00:25:01,920
+to see what you can do it, but it gets
+kind of complicated
+
+600
+00:25:02,408 --> 00:25:03,208
+so
+
+601
+00:25:03,264 --> 00:25:04,800
+you can create instead
+
+602
+00:25:04,896 --> 00:25:07,008
+what we call a graph you,
+
+603
+00:25:07,728 --> 00:25:11,376
+and the way a graph you works is you
+define the tables
+
+604
+00:25:11,952 --> 00:25:13,200
+that represent
+
+605
+00:25:13,824 --> 00:25:14,736
+vertices.
+
+606
+00:25:14,880 --> 00:25:16,800
+So in this case we have bank accounts.
+
+607
+00:25:17,136 --> 00:25:18,528
+You know, he throws a bank account.
+
+608
+00:25:18,528 --> 00:25:21,120
+We say, hey, each of these bank accounts
+represent a
+
+609
+00:25:21,216 --> 00:25:22,464
+vertex in the graph,
+
+610
+00:25:23,616 --> 00:25:24,432
+and then
+
+611
+00:25:24,672 --> 00:25:26,448
+you can also define
+
+612
+00:25:26,688 --> 00:25:28,992
+a different table that represents edges.
+
+613
+00:25:29,040 --> 00:25:30,816
+So in this case, you have money transfers,
+
+614
+00:25:30,960 --> 00:25:33,216
+money transfers from account b to see
+
+615
+00:25:33,344 --> 00:25:34,144
+there's the amount.
+
+616
+00:25:34,368 --> 00:25:36,384
+Those represent the edges in the graph.
+
+617
+00:25:37,304 --> 00:25:38,104
+And then
+
+618
+00:25:38,592 --> 00:25:40,272
+you do this using a view,
+
+619
+00:25:40,464 --> 00:25:42,624
+and the view is a little bit like the
+Jason view.
+
+620
+00:25:43,152 --> 00:25:45,264
+You say, create property graph view.
+
+621
+00:25:45,744 --> 00:25:46,752
+You tell it.
+
+622
+00:25:46,896 --> 00:25:48,336
+The bank account table
+
+623
+00:25:48,480 --> 00:25:49,968
+represents vertex's.
+
+624
+00:25:50,400 --> 00:25:52,608
+The money transferred table represents
+
+625
+00:25:53,040 --> 00:25:54,240
+the edges in the graph.
+
+626
+00:25:54,480 --> 00:25:55,632
+So that's the view.
+
+627
+00:25:55,632 --> 00:25:57,312
+It's about 8 lines of
+
+628
+00:25:57,408 --> 00:25:58,464
+a sequel,
+
+629
+00:25:58,848 --> 00:26:00,768
+and once you've defined the view,
+
+630
+00:26:01,104 --> 00:26:02,832
+you can run a graph query.
+
+631
+00:26:03,216 --> 00:26:04,224
+And the graph query.
+
+632
+00:26:04,224 --> 00:26:05,760
+Bisley has this match
+
+633
+00:26:06,096 --> 00:26:10,224
+statement. That's kind of AAAA pattern
+that it walks through the graph.
+
+634
+00:26:10,224 --> 00:26:11,280
+Looking for that pattern,
+
+635
+00:26:11,616 --> 00:26:13,920
+and in this case, the pattern is looking
+for
+
+636
+00:26:14,112 --> 00:26:16,560
+is money moving from bank account, bt ee.
+
+637
+00:26:17,280 --> 00:26:18,864
+So you write that query,
+
+638
+00:26:19,104 --> 00:26:21,696
+and the database understands what you're
+trying to do.
+
+639
+00:26:21,936 --> 00:26:24,144
+It, walks the graph and gives you the
+answer.
+
+640
+00:26:24,960 --> 00:26:26,496
+So this is much simpler.
+
+641
+00:26:26,496 --> 00:26:27,984
+See here. It's about a 6 line.
+
+642
+00:26:28,080 --> 00:26:30,096
+You have to learn a little bit about this
+match thing,
+
+643
+00:26:30,672 --> 00:26:32,976
+but it's a very simple thing to do.
+
+644
+00:26:33,600 --> 00:26:35,952
+Writing the same query for just the 3
+
+645
+00:26:37,008 --> 00:26:40,704
+would require 12 joins in 3 unions to
+write that in sequel.
+
+646
+00:26:40,704 --> 00:26:42,048
+So its dramatically simpler.
+
+647
+00:26:42,048 --> 00:26:44,160
+Once you pick it up, it's super simple to
+do,
+
+648
+00:26:44,400 --> 00:26:45,600
+and so you can convert
+
+649
+00:26:45,696 --> 00:26:46,608
+your tables
+
+650
+00:26:46,704 --> 00:26:48,864
+into graphs and vertices
+
+651
+00:26:49,760 --> 00:26:50,560
+allright.
+
+652
+00:26:50,880 --> 00:26:53,568
+So now that we have this query language,
+
+653
+00:26:53,904 --> 00:26:55,488
+you can use this against all your data.
+
+654
+00:26:55,488 --> 00:26:56,832
+So all your relational data.
+
+655
+00:26:56,832 --> 00:27:00,144
+Now you can create these property graph
+use on top of
+
+656
+00:27:00,576 --> 00:27:01,440
+and then run
+
+657
+00:27:01,728 --> 00:27:04,992
+queries. You can analyze the data, walk
+through the edges and grass.
+
+658
+00:27:04,992 --> 00:27:05,856
+It's all available
+
+659
+00:27:05,952 --> 00:27:07,152
+all the data you have today.
+
+660
+00:27:07,152 --> 00:27:08,640
+It's super simple to do,
+
+661
+00:27:09,216 --> 00:27:11,232
+and that's kind of what feature on group
+says. I'll say
+
+662
+00:27:12,272 --> 00:27:13,072
+allright.
+
+663
+00:27:13,440 --> 00:27:16,656
+So with Oracle database 23 see,
+
+664
+00:27:17,136 --> 00:27:20,976
+you can have an app where one part of the
+app can treat the data as relational,
+
+665
+00:27:21,888 --> 00:27:24,576
+while other parts treat the exact same
+data
+
+666
+00:27:24,672 --> 00:27:27,456
+as a document and others treated as a
+graph.
+
+667
+00:27:27,800 --> 00:27:28,600
+So
+
+668
+00:27:28,656 --> 00:27:32,160
+what you're getting here is this grand
+unification of all these models.
+
+669
+00:27:32,400 --> 00:27:34,560
+You can get the best of all these worlds
+
+670
+00:27:34,896 --> 00:27:36,144
+at the same time,
+
+671
+00:27:36,288 --> 00:27:37,488
+against the same data.
+
+672
+00:27:38,112 --> 00:27:41,904
+So this is another huge benefit for
+application development.
+
+673
+00:27:42,048 --> 00:27:43,872
+Get all of it everything you ever wanted
+
+674
+00:27:45,456 --> 00:27:48,336
+and I've talked about Jason duality and
+graph.
+
+675
+00:27:48,336 --> 00:27:49,392
+But there's more than that
+
+676
+00:27:49,680 --> 00:27:50,640
+we really
+
+677
+00:27:50,864 --> 00:27:51,664
+tried
+
+678
+00:27:51,840 --> 00:27:53,424
+to fill out the whole
+
+679
+00:27:53,520 --> 00:27:55,056
+declarative usage intent.
+
+680
+00:27:55,728 --> 00:27:58,032
+So there's other things we happen in the
+database. Also,
+
+681
+00:27:58,272 --> 00:28:01,104
+we have something called analytic use,
+which we've had acted for a few
+
+682
+00:28:01,488 --> 00:28:04,704
+that the Claire analytic and said, they
+make writing analytic queries
+
+683
+00:28:04,992 --> 00:28:06,192
+dramatically simpler.
+
+684
+00:28:06,960 --> 00:28:10,608
+We've added something in a database 23 C,
+called domains,
+
+685
+00:28:10,752 --> 00:28:14,064
+and those allow you to declare the data
+value intense.
+
+686
+00:28:14,448 --> 00:28:17,568
+So he can say this is a credit card,
+that's a password,
+
+687
+00:28:17,760 --> 00:28:18,720
+this is a user,
+
+688
+00:28:18,912 --> 00:28:19,920
+this is an email.
+
+689
+00:28:20,784 --> 00:28:23,712
+We also have added something called
+annotations that declare
+
+690
+00:28:23,952 --> 00:28:25,632
+the table or column intent,
+
+691
+00:28:26,160 --> 00:28:28,464
+and we've added something called change
+notification
+
+692
+00:28:28,464 --> 00:28:30,336
+directives that declare notification.
+
+693
+00:28:30,336 --> 00:28:32,592
+So, hey, when this changes notify that
+person,
+
+694
+00:28:33,456 --> 00:28:35,952
+so there's a lot of different things that
+we've added for
+
+695
+00:28:36,048 --> 00:28:37,008
+data usage, intent,
+
+696
+00:28:37,952 --> 00:28:38,752
+okay.
+
+697
+00:28:38,880 --> 00:28:42,912
+So everything I've described is available
+in Oracle database 23.
+
+698
+00:28:42,912 --> 00:28:43,968
+Seat today
+
+699
+00:28:44,256 --> 00:28:46,800
+its production in the Oracle public cloud.
+
+700
+00:28:47,184 --> 00:28:49,296
+It's also available on premises with our
+
+701
+00:28:49,488 --> 00:28:51,024
+Oracle database free, and
+
+702
+00:28:51,168 --> 00:28:53,232
+coming soon it'll be available everywhere,
+on
+
+703
+00:28:53,232 --> 00:28:55,056
+Pram, on every cloud, everywhere else. You
+want it
+
+704
+00:28:56,448 --> 00:28:58,272
+all right. So to summarize this section,
+
+705
+00:28:58,656 --> 00:29:01,344
+the future for developers is really going
+to be
+
+706
+00:29:01,968 --> 00:29:04,176
+outcomes. By declaring usage intent,
+
+707
+00:29:04,416 --> 00:29:05,664
+you say what you want,
+
+708
+00:29:06,000 --> 00:29:06,960
+we'll get it for you.
+
+709
+00:29:06,960 --> 00:29:07,776
+Do you want Jason?
+
+710
+00:29:07,776 --> 00:29:09,264
+Do you want graph doesn't matter,
+
+711
+00:29:09,360 --> 00:29:10,656
+we'll do whatever you need,
+
+712
+00:29:11,232 --> 00:29:14,544
+and this delivers huge productivity
+benefits and
+
+713
+00:29:14,544 --> 00:29:17,472
+produces much simpler and more robust
+apps.
+
+714
+00:29:18,000 --> 00:29:19,344
+This is a really big deal
+
+715
+00:29:20,592 --> 00:29:21,936
+allright, Wiki bond says.
+
+716
+00:29:22,272 --> 00:29:25,728
+Developing new apps using a pure Jason, or
+graph bottle
+
+717
+00:29:25,728 --> 00:29:28,800
+is now like committing to using a basic
+flip phone for 20 years.
+
+718
+00:29:29,040 --> 00:29:31,104
+So this multimodal,
+
+719
+00:29:31,200 --> 00:29:34,272
+the ability to do all these different
+things at once is like a smartphone
+
+720
+00:29:34,272 --> 00:29:36,528
+is much more powerful than what existed
+before.
+
+721
+00:29:37,568 --> 00:29:38,368
+All, right,
+
+722
+00:29:38,400 --> 00:29:40,320
+so that's the end of data usage intent.
+
+723
+00:29:40,320 --> 00:29:42,096
+I'm moving on to strategy to
+
+724
+00:29:42,576 --> 00:29:45,120
+generate apps, so we're generating things,
+
+725
+00:29:45,600 --> 00:29:47,952
+and you hear Larry talking about this a
+lot.
+
+726
+00:29:48,192 --> 00:29:51,552
+So it's low code platforms that are
+leading the
+
+727
+00:29:51,552 --> 00:29:54,768
+transformation, the generating apps
+instead of hand-coding them,
+
+728
+00:29:56,112 --> 00:29:58,560
+and low-code platforms that generate app
+
+729
+00:29:59,856 --> 00:30:01,584
+by using visual tools.
+
+730
+00:30:01,584 --> 00:30:03,936
+So you draw out what you want and
+metadata,
+
+731
+00:30:05,184 --> 00:30:07,728
+and low could, of course you know when you
+just draw it out.
+
+732
+00:30:07,728 --> 00:30:09,408
+It's much more productive than coding.
+
+733
+00:30:10,992 --> 00:30:14,064
+In the past, it's been mostly for
+generating simple apps, so
+
+734
+00:30:14,064 --> 00:30:16,992
+you have something that looks like a
+spreadsheet or an order entry form
+
+735
+00:30:17,136 --> 00:30:18,432
+that's been easy to generate.
+
+736
+00:30:19,632 --> 00:30:23,232
+The challenge for low-code is really been
+generating complex
+
+737
+00:30:23,760 --> 00:30:24,816
+enterprise grade apps.
+
+738
+00:30:24,816 --> 00:30:26,112
+That's really been the challenge.
+
+739
+00:30:26,928 --> 00:30:29,040
+In Oracle Apex, our low-code tool,
+
+740
+00:30:29,088 --> 00:30:31,152
+has been the leader in addressing this
+challenge.
+
+741
+00:30:32,400 --> 00:30:34,800
+Apex is really unique in the industry
+
+742
+00:30:34,976 --> 00:30:35,776
+and that
+
+743
+00:30:36,336 --> 00:30:39,744
+delivers simplicity, that simplicity of
+low-code without limits,
+
+744
+00:30:40,032 --> 00:30:40,944
+which enables
+
+745
+00:30:41,520 --> 00:30:44,016
+using low-code, degenerate enterprise. But
+apps, so
+
+746
+00:30:44,544 --> 00:30:47,808
+you can, you can write an application at
+any level of
+
+747
+00:30:47,808 --> 00:30:50,976
+sophistication, using a Beck's, even the
+most complex apps.
+
+748
+00:30:51,216 --> 00:30:53,472
+There is no limit on the scale a user is
+the mission,
+
+749
+00:30:53,472 --> 00:30:55,488
+criticality, interoperability,
+
+750
+00:30:55,584 --> 00:30:56,736
+no limits on anything.
+
+751
+00:30:57,312 --> 00:31:01,296
+And today over 2,000,000 Apex apps have
+been,
+
+752
+00:31:02,400 --> 00:31:05,952
+and there's about 3000 new Apex apps
+written every single day.
+
+753
+00:31:07,152 --> 00:31:08,736
+When IDC surveyed
+
+754
+00:31:09,024 --> 00:31:13,392
+which tools enterprises predominantly
+prefer for low-code app dev,
+
+755
+00:31:14,112 --> 00:31:15,456
+the results were
+
+756
+00:31:15,552 --> 00:31:17,712
+that Oracle Apex was the most preferred
+tool.
+
+757
+00:31:17,904 --> 00:31:21,792
+It's more preferred, higher than power
+apps or salesforce, so it's it's,
+
+758
+00:31:22,032 --> 00:31:24,096
+it's very popular, it's very powerful,
+
+759
+00:31:24,576 --> 00:31:26,256
+and many of you here priorities,
+
+760
+00:31:27,272 --> 00:31:28,072
+okay.
+
+761
+00:31:28,176 --> 00:31:32,736
+So, with Oracle Apex, we're extending low
+code to handle many more app use cases.
+
+762
+00:31:32,736 --> 00:31:35,568
+So this is the work that we've been doing
+over the last few years.
+
+763
+00:31:36,000 --> 00:31:38,592
+We've added workflows, low-code workflows.
+
+764
+00:31:38,592 --> 00:31:39,408
+In the Apex.
+
+765
+00:31:39,792 --> 00:31:43,584
+We've done a lot of work on low code for
+mission critical SaaS.
+
+766
+00:31:43,968 --> 00:31:45,168
+What that means is that
+
+767
+00:31:45,264 --> 00:31:48,096
+it'll generate apps that are then
+configurable by the user.
+
+768
+00:31:49,200 --> 00:31:54,048
+We've added a low-code for mobile, so the
+same app that you use on a
+
+769
+00:31:54,368 --> 00:31:55,168
+browser
+
+770
+00:31:55,440 --> 00:31:57,888
+also can be used on a mobile device
+
+771
+00:31:58,080 --> 00:31:59,184
+and its seamless.
+
+772
+00:31:59,664 --> 00:32:01,056
+And we've also added a lot of
+
+773
+00:32:01,088 --> 00:32:01,888
+work to
+
+774
+00:32:01,968 --> 00:32:04,512
+to make the low-code app interoperate with
+all the rest
+
+775
+00:32:04,512 --> 00:32:06,864
+of that, with things like graph, ql and
+Java script.
+
+776
+00:32:07,488 --> 00:32:12,048
+So we think in in the near future, the
+large majority of enterprise apps will be
+
+777
+00:32:12,288 --> 00:32:13,584
+able to be generated
+
+778
+00:32:13,872 --> 00:32:15,696
+using low-code Apex.
+
+779
+00:32:17,952 --> 00:32:20,544
+Now I talked about the data usage intent
+
+780
+00:32:20,832 --> 00:32:23,184
+Asians and comes together with Apex. So
+
+781
+00:32:23,328 --> 00:32:27,792
+low-code apps like coded apps, often want
+to use hierarchical and graph formats. So
+
+782
+00:32:27,984 --> 00:32:30,240
+Jason and graph duality make it much
+easier
+
+783
+00:32:30,240 --> 00:32:32,208
+for low code to generate these apps.
+
+784
+00:32:32,496 --> 00:32:34,464
+And I talked about annotations and the
+main,
+
+785
+00:32:34,560 --> 00:32:38,064
+those enabled loco, degenerate guis that
+are data value specific.
+
+786
+00:32:38,208 --> 00:32:40,704
+So if you declare something with a domain
+or annotation,
+
+787
+00:32:40,896 --> 00:32:42,048
+declare a credit card,
+
+788
+00:32:42,480 --> 00:32:44,496
+then the gui will automatically be
+generated.
+
+789
+00:32:44,496 --> 00:32:45,936
+Says, oh, I know, it's a credit card.
+
+790
+00:32:45,936 --> 00:32:47,424
+There's certain pattern to these numbers.
+
+791
+00:32:47,424 --> 00:32:48,960
+There are certain validation I can do,
+
+792
+00:32:49,056 --> 00:32:50,832
+there's certain input forms I can do.
+
+793
+00:32:51,024 --> 00:32:53,328
+Or if you say, oh, it's a password, it
+knows not to
+
+794
+00:32:53,424 --> 00:32:55,296
+to echo the characters. So
+
+795
+00:32:55,440 --> 00:32:57,120
+you declare it in the database that
+
+796
+00:32:57,552 --> 00:33:01,008
+every app that uses that data knows that
+that's what it is in.
+
+797
+00:33:01,008 --> 00:33:02,832
+Can generate the appropriate guis
+
+798
+00:33:03,216 --> 00:33:06,576
+with the right validation, the right
+certification makes it easy to use
+
+799
+00:33:07,736 --> 00:33:08,536
+all right.
+
+800
+00:33:09,216 --> 00:33:12,384
+Here's an interesting quote that says
+healthcare systems are
+
+801
+00:33:12,384 --> 00:33:15,360
+among the most complex systems ever built,
+and, of course, Oracle
+
+802
+00:33:15,392 --> 00:33:16,192
+now has
+
+803
+00:33:16,224 --> 00:33:17,424
+a cerner,
+
+804
+00:33:17,672 --> 00:33:18,472
+and, of course,
+
+805
+00:33:18,864 --> 00:33:21,360
+healthcare records system were rebuilding
+
+806
+00:33:21,456 --> 00:33:23,424
+cerner using Apex,
+
+807
+00:33:23,760 --> 00:33:26,016
+and this is one of the most complex apps
+in the world.
+
+808
+00:33:26,160 --> 00:33:28,272
+And the fact that we can do this as a
+major
+
+809
+00:33:28,272 --> 00:33:30,240
+validation of productivity and power of
+Apex.
+
+810
+00:33:30,240 --> 00:33:31,536
+So if we can do
+
+811
+00:33:31,824 --> 00:33:33,456
+life-critical,
+
+812
+00:33:33,696 --> 00:33:35,520
+super complex apps
+
+813
+00:33:35,664 --> 00:33:38,352
+in Apex, we can do just about anything
+with Apex,
+
+814
+00:33:40,368 --> 00:33:43,344
+all right. So I've talked about Apex
+primarily
+
+815
+00:33:44,576 --> 00:33:45,376
+about
+
+816
+00:33:45,792 --> 00:33:48,864
+in the context of oltp applications,
+
+817
+00:33:49,344 --> 00:33:51,312
+but we're also introducing
+
+818
+00:33:51,408 --> 00:33:53,424
+low code into analytics.
+
+819
+00:33:53,760 --> 00:33:57,360
+So the Oracle autonomous data warehouse
+brings low-code
+
+820
+00:33:57,600 --> 00:33:58,704
+to data warehousing,
+
+821
+00:33:59,472 --> 00:34:02,160
+so it includes something called the low
+code data studio
+
+822
+00:34:02,544 --> 00:34:06,240
+that uniquely simplifies the full analytic
+workflow.
+
+823
+00:34:06,240 --> 00:34:08,736
+So we have low-code data modeling with
+things like
+
+824
+00:34:08,832 --> 00:34:12,144
+semantic modeling, machine learning,
+modeling, graph boggling.
+
+825
+00:34:12,528 --> 00:34:15,312
+We've added low code data motion, so we
+have a very open
+
+826
+00:34:15,648 --> 00:34:16,464
+data sharing
+
+827
+00:34:16,704 --> 00:34:19,824
+that can be configured using low-code data
+integration.
+
+828
+00:34:19,920 --> 00:34:20,832
+Golden gauge.
+
+829
+00:34:20,880 --> 00:34:21,936
+It a catalogue
+
+830
+00:34:22,224 --> 00:34:24,912
+of the rest services, local data analysis,
+
+831
+00:34:25,056 --> 00:34:26,928
+the things like sequel, worksheet,
+notebooks.
+
+832
+00:34:27,072 --> 00:34:27,888
+So we've added
+
+833
+00:34:29,280 --> 00:34:32,448
+to our data, whereas to make it
+dramatically simpler and easier to use
+
+834
+00:34:32,688 --> 00:34:34,368
+and more productive for users,
+
+835
+00:34:35,288 --> 00:34:36,088
+okay.
+
+836
+00:34:36,432 --> 00:34:37,968
+So that's generating apps.
+
+837
+00:34:37,968 --> 00:34:38,976
+We talked about
+
+838
+00:34:39,168 --> 00:34:41,328
+generating database on usage, intent,
+
+839
+00:34:41,328 --> 00:34:43,056
+bringing all the worlds that data
+together.
+
+840
+00:34:43,584 --> 00:34:44,640
+We've talked about
+
+841
+00:34:44,736 --> 00:34:45,744
+generating
+
+842
+00:34:46,080 --> 00:34:47,616
+entire applications.
+
+843
+00:34:47,856 --> 00:34:49,248
+So those are 2 giant
+
+844
+00:34:49,344 --> 00:34:51,264
+transformations that are happening right
+now.
+
+845
+00:34:51,792 --> 00:34:52,800
+There's a 3rd
+
+846
+00:34:52,944 --> 00:34:54,192
+that you might have heard about
+
+847
+00:34:54,960 --> 00:34:56,160
+and it's called ai.
+
+848
+00:34:56,736 --> 00:34:58,320
+So let's talk about that.
+
+849
+00:34:59,328 --> 00:35:00,624
+So we've seen that
+
+850
+00:35:00,816 --> 00:35:02,160
+declaring intent
+
+851
+00:35:02,544 --> 00:35:05,616
+provides revolutionary benefits for app
+professionals.
+
+852
+00:35:06,192 --> 00:35:07,152
+Now
+
+853
+00:35:07,392 --> 00:35:09,840
+ai search and generative ai
+
+854
+00:35:09,984 --> 00:35:11,424
+are creating another revolution
+
+855
+00:35:11,480 --> 00:35:12,280
+of
+
+856
+00:35:12,288 --> 00:35:13,248
+declarative intent.
+
+857
+00:35:14,208 --> 00:35:15,840
+So using ai,
+
+858
+00:35:16,320 --> 00:35:17,760
+all these different parties
+
+859
+00:35:17,856 --> 00:35:19,296
+are going to be able to
+
+860
+00:35:19,392 --> 00:35:22,944
+search unstructured data and query using
+natural language,
+
+861
+00:35:23,328 --> 00:35:24,528
+and this is something where we
+
+862
+00:35:24,624 --> 00:35:26,400
+were adding to our database right now.
+
+863
+00:35:27,456 --> 00:35:29,232
+Now, let's start with
+
+864
+00:35:29,856 --> 00:35:31,824
+searches on unstructured data.
+
+865
+00:35:31,824 --> 00:35:34,128
+So there's a new way to search
+unstructured data,
+
+866
+00:35:34,704 --> 00:35:36,480
+and it's called ai vectors,
+
+867
+00:35:38,168 --> 00:35:38,968
+and
+
+868
+00:35:39,264 --> 00:35:42,288
+I'm going to talk about what an ai vector
+is and how it works.
+
+869
+00:35:42,344 --> 00:35:43,144
+So
+
+870
+00:35:43,296 --> 00:35:44,208
+vectors
+
+871
+00:35:44,352 --> 00:35:48,576
+are used to represent the content that
+Symantec connacht, the meaning
+
+872
+00:35:48,864 --> 00:35:51,456
+of things like documents, videos and
+images.
+
+873
+00:35:52,080 --> 00:35:54,480
+And, physically, what a vector is
+
+874
+00:35:54,576 --> 00:35:56,064
+is a sequence of numbers.
+
+875
+00:35:56,688 --> 00:35:58,272
+Those numbers are called dimensions
+
+876
+00:35:58,848 --> 00:36:01,584
+and they're meant to capture the important
+features of data
+
+877
+00:36:02,352 --> 00:36:04,080
+k, so that's kind of physically what it
+is.
+
+878
+00:36:04,080 --> 00:36:05,136
+But I can give you an example.
+
+879
+00:36:05,136 --> 00:36:06,480
+That's going to make it a lot clearer.
+
+880
+00:36:06,968 --> 00:36:07,768
+So
+
+881
+00:36:07,824 --> 00:36:08,688
+here's an example.
+
+882
+00:36:08,688 --> 00:36:09,504
+I have a picture.
+
+883
+00:36:09,600 --> 00:36:11,040
+I have a picture of a house.
+
+884
+00:36:11,568 --> 00:36:13,968
+How do I represent that as a vector?
+
+885
+00:36:15,008 --> 00:36:15,808
+Well,
+
+886
+00:36:15,840 --> 00:36:17,280
+the numbers represent
+
+887
+00:36:17,808 --> 00:36:19,104
+features that are specific.
+
+888
+00:36:19,104 --> 00:36:20,064
+So, for example,
+
+889
+00:36:20,192 --> 00:36:20,992
+one number
+
+890
+00:36:21,168 --> 00:36:23,280
+in a vector might represent the type of
+roof.
+
+891
+00:36:23,328 --> 00:36:25,392
+Another one might represent the
+declarations.
+
+892
+00:36:25,392 --> 00:36:27,696
+Another one might represent the number of
+stories.
+
+893
+00:36:27,696 --> 00:36:31,104
+Another might represent the building
+materials like this is a woodhouse.
+
+894
+00:36:31,536 --> 00:36:33,984
+So that's the kind of conceptual idea
+
+895
+00:36:34,176 --> 00:36:36,864
+behind vectors has a bunch of numbers,
+usually
+
+896
+00:36:37,056 --> 00:36:38,880
+few 100 to a couple of 1000,
+
+897
+00:36:39,120 --> 00:36:42,864
+and they represent the features of the
+thing that you're trying to represent.
+
+898
+00:36:43,496 --> 00:36:44,296
+Now.
+
+899
+00:36:44,976 --> 00:36:48,192
+What I showed you here is conceptually
+correct, but it's actually not correct.
+
+900
+00:36:48,192 --> 00:36:49,776
+The world has moved on beyond this.
+
+901
+00:36:49,920 --> 00:36:52,416
+Those features are now not hand-coded.
+
+902
+00:36:52,656 --> 00:36:54,096
+They used to be that people would do.
+
+903
+00:36:54,288 --> 00:36:56,784
+This is the roof. This is a declaration
+that those days are gone.
+
+904
+00:36:56,976 --> 00:36:59,856
+The features are now generated by machine
+learning algorithms,
+
+905
+00:37:00,096 --> 00:37:03,264
+so it's not quite as simple to say what
+the numbers, what the numbers
+
+906
+00:37:03,408 --> 00:37:06,000
+represent, because those are generated
+using neural nets.
+
+907
+00:37:06,384 --> 00:37:07,920
+But the concept is still the same,
+
+908
+00:37:08,384 --> 00:37:09,184
+okay.
+
+909
+00:37:09,216 --> 00:37:13,968
+So if I take house vectors and I collapse
+them into 2 dimensions instead of 100,
+
+910
+00:37:14,160 --> 00:37:16,848
+it might look something like this on a
+two-dimensional plane,
+
+911
+00:37:17,328 --> 00:37:19,104
+and the key thing to understand
+
+912
+00:37:19,392 --> 00:37:23,568
+about vectors is that the distance between
+the vectors. When I say
+
+913
+00:37:23,856 --> 00:37:27,120
+how different is this factor from that
+that represents the
+
+914
+00:37:27,120 --> 00:37:30,240
+semantic similarity of the underlying
+objects.
+
+915
+00:37:30,768 --> 00:37:31,680
+So you see here on,
+
+916
+00:37:31,872 --> 00:37:33,168
+on the upper left,
+
+917
+00:37:33,504 --> 00:37:34,944
+you have 2 pictures of houses that
+
+918
+00:37:35,088 --> 00:37:38,016
+are pretty similar, that kind of the same
+roofs and kind of ruse,
+
+919
+00:37:38,016 --> 00:37:40,368
+same kind of building materials thing,
+kind of windows.
+
+920
+00:37:40,752 --> 00:37:43,872
+So they're vectors would be very close
+together.
+
+921
+00:37:44,592 --> 00:37:47,040
+Another hand, in the bottom, right, I have
+that other
+
+922
+00:37:47,040 --> 00:37:49,440
+wooden house, which is quite different
+from those. So
+
+923
+00:37:49,728 --> 00:37:51,984
+those vectors would be, or that vector
+would
+
+924
+00:37:51,984 --> 00:37:54,240
+be very far away from those other 2
+vectors.
+
+925
+00:37:54,432 --> 00:37:58,848
+So the distance between the vectors
+represents their semantic similarity.
+
+926
+00:37:59,856 --> 00:38:01,248
+Not that similarity of the,
+
+927
+00:38:01,824 --> 00:38:04,512
+but what the house actually looks like
+
+928
+00:38:05,136 --> 00:38:08,064
+okay, and the same thing applies to other
+kind of data. So
+
+929
+00:38:08,304 --> 00:38:10,272
+word similarity works the same way.
+
+930
+00:38:10,704 --> 00:38:15,360
+So when you Craig vectors for words,
+you'll see that the words that represent
+
+931
+00:38:15,488 --> 00:38:16,288
+fruits,
+
+932
+00:38:16,416 --> 00:38:18,048
+those vectors are close together.
+
+933
+00:38:18,288 --> 00:38:20,160
+Words that represent animals are close
+together.
+
+934
+00:38:20,160 --> 00:38:20,976
+Where's the represent?
+
+935
+00:38:20,976 --> 00:38:22,032
+States are close together,
+
+936
+00:38:22,128 --> 00:38:25,152
+but they are farther apart from from the
+different kinds of objects.
+
+937
+00:38:26,016 --> 00:38:27,648
+Now that's a simple example.
+
+938
+00:38:28,128 --> 00:38:30,144
+What we really use is
+
+939
+00:38:30,528 --> 00:38:32,784
+vectors that represent entire documents.
+
+940
+00:38:32,880 --> 00:38:34,560
+So what is in the document?
+
+941
+00:38:34,560 --> 00:38:36,000
+What's the meaning of the document?
+
+942
+00:38:36,000 --> 00:38:37,152
+What does this document about?
+
+943
+00:38:37,152 --> 00:38:38,448
+Is it about the keynote and
+
+944
+00:38:38,736 --> 00:38:40,752
+in cloudworld 2023,
+
+945
+00:38:40,944 --> 00:38:42,768
+that information is in the vector?
+
+946
+00:38:43,328 --> 00:38:44,128
+And again,
+
+947
+00:38:44,304 --> 00:38:46,608
+the vector that represents a document,
+
+948
+00:38:47,568 --> 00:38:49,056
+the ones that are similar or
+
+949
+00:38:49,152 --> 00:38:50,064
+closer together,
+
+950
+00:38:50,216 --> 00:38:51,016
+the ones
+
+951
+00:38:51,072 --> 00:38:52,560
+that are farther apart
+
+952
+00:38:52,704 --> 00:38:54,432
+our distance. So if you have a,
+
+953
+00:38:54,720 --> 00:38:56,688
+if you have a meeting at
+
+954
+00:38:56,688 --> 00:38:58,656
+some other thing, it's gonna be very
+different from the keynote.
+
+955
+00:38:58,656 --> 00:39:00,336
+The vectors are going to be very separate,
+
+956
+00:39:01,632 --> 00:39:05,280
+all right, so that's the key attributes of
+vectors and what vectors are.
+
+957
+00:39:06,336 --> 00:39:10,224
+So now that we know what factors are,
+let's talk about how they're used.
+
+958
+00:39:10,800 --> 00:39:12,576
+So vector search
+
+959
+00:39:12,912 --> 00:39:14,736
+on unstructured data
+
+960
+00:39:15,264 --> 00:39:16,608
+is normally combined
+
+961
+00:39:16,752 --> 00:39:20,496
+with relational search on business data to
+solve business problems.
+
+962
+00:39:21,512 --> 00:39:22,312
+Now here's
+
+963
+00:39:22,464 --> 00:39:23,568
+a few use cases.
+
+964
+00:39:23,568 --> 00:39:25,104
+You can use this technology for
+
+965
+00:39:25,632 --> 00:39:29,328
+so one use case is semantic documents
+search searched by
+
+966
+00:39:29,520 --> 00:39:32,160
+by the content, the actual meaning of the
+document.
+
+967
+00:39:32,400 --> 00:39:33,840
+So examples like that are
+
+968
+00:39:34,080 --> 00:39:35,520
+I have a user question.
+
+969
+00:39:35,568 --> 00:39:38,256
+Find me documents that are relevant to
+this user question
+
+970
+00:39:38,736 --> 00:39:41,472
+in other use cases, like a product or
+Cadillac search.
+
+971
+00:39:41,520 --> 00:39:43,920
+I describe an object and it finds it in
+the catalog.
+
+972
+00:39:44,208 --> 00:39:45,792
+In other one, is sentiment analysis.
+
+973
+00:39:45,792 --> 00:39:47,040
+What does that person thing?
+
+974
+00:39:47,040 --> 00:39:48,480
+Is it positive as a negative?
+
+975
+00:39:48,560 --> 00:39:49,360
+You know?
+
+976
+00:39:49,440 --> 00:39:51,072
+How do you describe what they're saying?
+
+977
+00:39:51,936 --> 00:39:53,184
+Another use case
+
+978
+00:39:53,568 --> 00:39:54,960
+for vectors is
+
+979
+00:39:55,296 --> 00:39:57,072
+semantic image search. So
+
+980
+00:39:57,264 --> 00:39:58,272
+face recognition.
+
+981
+00:39:58,368 --> 00:39:59,424
+Is this person the same?
+
+982
+00:39:59,424 --> 00:40:02,496
+It doesn't matter they had classes on that
+classes on different clothes,
+
+983
+00:40:02,688 --> 00:40:04,128
+you know, taken from different angles.
+
+984
+00:40:04,128 --> 00:40:07,296
+It can identify that it's the same person
+because it's not comparing the pixels.
+
+985
+00:40:07,440 --> 00:40:09,264
+It's comparing the actual object
+
+986
+00:40:10,032 --> 00:40:12,240
+finding, matching objects, finding floods
+and up.
+
+987
+00:40:12,288 --> 00:40:14,112
+Is there a crack in this car?
+
+988
+00:40:14,112 --> 00:40:15,888
+Is there a crack in this window?
+
+989
+00:40:16,080 --> 00:40:18,096
+That's the kind of stuff you can find
+using these
+
+990
+00:40:18,288 --> 00:40:19,536
+semantic image searches.
+
+991
+00:40:19,872 --> 00:40:21,648
+You'll also find similar patterns.
+
+992
+00:40:21,840 --> 00:40:25,056
+So this is useful for things like anomaly
+and fraud detection.
+
+993
+00:40:25,296 --> 00:40:27,600
+There's a sequence of events that's fraud.
+
+994
+00:40:27,648 --> 00:40:29,760
+We look for that kind of sequence of
+events,
+
+995
+00:40:30,432 --> 00:40:31,728
+product recommendations.
+
+996
+00:40:31,728 --> 00:40:34,512
+You know people that bought this also
+bought, that people that browse.
+
+997
+00:40:34,512 --> 00:40:35,760
+This also did that.
+
+998
+00:40:36,336 --> 00:40:38,352
+That's all represented using a vector,
+
+999
+00:40:38,432 --> 00:40:39,232
+or you can find
+
+1000
+00:40:39,600 --> 00:40:41,184
+in trading patterns. Is another one
+
+1001
+00:40:41,984 --> 00:40:42,784
+okay.
+
+1002
+00:40:42,864 --> 00:40:45,312
+So let's go through an example of how this
+works.
+
+1003
+00:40:45,984 --> 00:40:46,896
+So, 1st of all,
+
+1004
+00:40:47,136 --> 00:40:48,144
+imagine
+
+1005
+00:40:48,240 --> 00:40:49,632
+a house hunting app
+
+1006
+00:40:50,400 --> 00:40:52,752
+that helps customers find houses for sale
+that
+
+1007
+00:40:52,752 --> 00:40:54,960
+are similar to a picture of the customer
+uploads.
+
+1008
+00:40:55,056 --> 00:40:56,304
+So you're driving around town.
+
+1009
+00:40:56,304 --> 00:40:57,840
+That was the video at the very beginning.
+
+1010
+00:40:58,032 --> 00:40:59,136
+You see a house you like,
+
+1011
+00:40:59,376 --> 00:41:00,240
+take a picture of it.
+
+1012
+00:41:00,240 --> 00:41:01,920
+You're like, hey, I want to file that
+similar
+
+1013
+00:41:02,192 --> 00:41:02,992
+to this one.
+
+1014
+00:41:03,120 --> 00:41:04,896
+It looks similar to this one that's for
+sale.
+
+1015
+00:41:05,088 --> 00:41:06,672
+So that's the example. We're going to work
+through
+
+1016
+00:41:07,304 --> 00:41:08,104
+now
+
+1017
+00:41:08,352 --> 00:41:11,328
+to find a match the matters to me.
+
+1018
+00:41:11,664 --> 00:41:13,728
+I have to combine that semantic search.
+
+1019
+00:41:13,776 --> 00:41:15,648
+Hey, I want a house that looks like this
+
+1020
+00:41:15,984 --> 00:41:17,472
+with business data.
+
+1021
+00:41:17,904 --> 00:41:20,592
+So, in this case, the business data as
+things like product data,
+
+1022
+00:41:20,688 --> 00:41:21,840
+the house has to be for sale.
+
+1023
+00:41:21,840 --> 00:41:23,280
+What houses are for sale?
+
+1024
+00:41:23,376 --> 00:41:24,336
+Where are they for sale?
+
+1025
+00:41:24,336 --> 00:41:25,152
+What's their price?
+
+1026
+00:41:25,248 --> 00:41:27,168
+And it has to match my preference.
+
+1027
+00:41:27,360 --> 00:41:29,280
+I'm only looking for houses in
+
+1028
+00:41:29,376 --> 00:41:32,016
+Las Vegas. I'm not looking for houses in
+Berlin.
+
+1029
+00:41:32,016 --> 00:41:33,072
+That's way too far.
+
+1030
+00:41:33,120 --> 00:41:35,136
+I can't commute from Berlin to Las Vegas,
+
+1031
+00:41:36,000 --> 00:41:37,872
+and it has to match my my budget.
+
+1032
+00:41:38,064 --> 00:41:40,128
+I don't care about houses that are double
+my budget.
+
+1033
+00:41:40,128 --> 00:41:41,952
+I don't even want to see that even if they
+match
+
+1034
+00:41:42,048 --> 00:41:43,296
+the picture.
+
+1035
+00:41:43,632 --> 00:41:46,752
+So that's how you need to combine the
+semantic search,
+
+1036
+00:41:46,752 --> 00:41:49,392
+the look of the house with this business
+data search.
+
+1037
+00:41:50,072 --> 00:41:50,872
+Now,
+
+1038
+00:41:51,168 --> 00:41:55,104
+when you're searching on a combination of
+business and semantic data,
+
+1039
+00:41:55,536 --> 00:41:58,512
+it's much more effective if they're stored
+in the thing
+
+1040
+00:41:58,704 --> 00:41:59,760
+database together.
+
+1041
+00:42:00,624 --> 00:42:01,536
+So one
+
+1042
+00:42:02,016 --> 00:42:04,128
+is, you take all your business data
+
+1043
+00:42:04,848 --> 00:42:07,248
+and you have a separate vector database,
+and you
+
+1044
+00:42:07,248 --> 00:42:09,600
+just feed your business data into the
+vector database.
+
+1045
+00:42:09,600 --> 00:42:12,048
+So it's available so they can kind of
+combine them.
+
+1046
+00:42:12,816 --> 00:42:14,976
+Now that has an obvious problem, which is
+
+1047
+00:42:15,504 --> 00:42:17,472
+you're constantly sending all your
+business owner.
+
+1048
+00:42:17,472 --> 00:42:19,104
+You have to keep it up the day. You have
+to
+
+1049
+00:42:19,248 --> 00:42:20,784
+keep these 2 databases going,
+
+1050
+00:42:21,168 --> 00:42:23,808
+and the business data that's relevant
+varies widely.
+
+1051
+00:42:23,808 --> 00:42:25,680
+So you have to send a lot of of
+
+1052
+00:42:25,824 --> 00:42:26,832
+of business data.
+
+1053
+00:42:27,120 --> 00:42:29,280
+And when you get it to the vector
+database, there
+
+1054
+00:42:29,280 --> 00:42:31,344
+were really not that good at searching
+business data.
+
+1055
+00:42:31,872 --> 00:42:33,168
+So that has problems.
+
+1056
+00:42:33,560 --> 00:42:34,360
+And so
+
+1057
+00:42:34,464 --> 00:42:36,864
+you know, we think the best solution is to
+add
+
+1058
+00:42:36,864 --> 00:42:38,832
+vector search to the business database.
+
+1059
+00:42:38,880 --> 00:42:40,368
+The business data is already there,
+
+1060
+00:42:40,512 --> 00:42:41,952
+you just add the vectors,
+
+1061
+00:42:42,144 --> 00:42:45,792
+and then you can do queries against a
+combination of business data and vectors.
+
+1062
+00:42:45,840 --> 00:42:48,432
+And there's no need that moves,
+synchronize data,
+
+1063
+00:42:48,432 --> 00:42:50,448
+manage multiple products, all that stuff,
+
+1064
+00:42:51,072 --> 00:42:54,624
+and that's something that we're announcing
+here at plaid world this year, which is
+
+1065
+00:42:54,816 --> 00:42:56,256
+we're announcing a
+
+1066
+00:42:56,352 --> 00:42:57,456
+vector search
+
+1067
+00:42:57,696 --> 00:42:58,896
+built into
+
+1068
+00:42:59,136 --> 00:43:01,152
+the Oracle database 23 C,
+
+1069
+00:43:01,440 --> 00:43:04,464
+and you can see this in our teacup. You
+can go
+
+1070
+00:43:04,560 --> 00:43:05,424
+to get a demo
+
+1071
+00:43:05,664 --> 00:43:06,672
+and see it in action.
+
+1072
+00:43:06,720 --> 00:43:08,064
+You can also sign up for
+
+1073
+00:43:08,160 --> 00:43:08,976
+the preview
+
+1074
+00:43:09,072 --> 00:43:10,944
+of using that fact QR Code.
+
+1075
+00:43:11,760 --> 00:43:13,392
+So I go to describe how this works
+
+1076
+00:43:14,648 --> 00:43:15,448
+okay.
+
+1077
+00:43:15,648 --> 00:43:17,184
+So we're doing the house on the app.
+
+1078
+00:43:17,568 --> 00:43:18,384
+1st thing you gotta
+
+1079
+00:43:19,008 --> 00:43:22,656
+you need is a table with all the available
+houses, with the houses that are for sale.
+
+1080
+00:43:22,944 --> 00:43:23,856
+So that's simple.
+
+1081
+00:43:23,856 --> 00:43:25,680
+Here's a simple create table semi's.
+
+1082
+00:43:25,680 --> 00:43:27,552
+They create the table of houses for sale.
+
+1083
+00:43:27,696 --> 00:43:28,656
+What do you want in their?
+
+1084
+00:43:28,896 --> 00:43:30,144
+You want a house ID.
+
+1085
+00:43:30,480 --> 00:43:31,920
+You want the price of a house.
+
+1086
+00:43:32,064 --> 00:43:34,224
+Where is the house with cities? That house
+in
+
+1087
+00:43:34,656 --> 00:43:36,096
+you want a photo of the house.
+
+1088
+00:43:36,288 --> 00:43:38,448
+And then that last thing is the key thing.
+
+1089
+00:43:38,736 --> 00:43:39,936
+You want a house vector,
+
+1090
+00:43:40,704 --> 00:43:44,064
+and that house vector is going to contain
+the look of the house.
+
+1091
+00:43:44,352 --> 00:43:46,560
+Basically, the semantic look of the house.
+
+1092
+00:43:46,560 --> 00:43:47,616
+What does this house look like?
+
+1093
+00:43:48,944 --> 00:43:49,744
+Okay,
+
+1094
+00:43:49,872 --> 00:43:51,408
+now you have your table.
+
+1095
+00:43:51,696 --> 00:43:54,576
+I want to find houses that are similar to
+this picture.
+
+1096
+00:43:55,152 --> 00:43:56,496
+So I write
+
+1097
+00:43:56,592 --> 00:43:57,600
+a three-length query.
+
+1098
+00:43:58,272 --> 00:43:59,376
+It's super simple.
+
+1099
+00:43:59,712 --> 00:44:02,256
+So I say, select from my houses for sale
+
+1100
+00:44:03,600 --> 00:44:04,752
+all the pictures,
+
+1101
+00:44:04,992 --> 00:44:05,856
+all the houses,
+
+1102
+00:44:05,952 --> 00:44:07,056
+but order them
+
+1103
+00:44:07,296 --> 00:44:09,264
+by the vector distance between
+
+1104
+00:44:09,264 --> 00:44:11,232
+the house and the database and the house.
+I'm looking for.
+
+1105
+00:44:12,480 --> 00:44:15,168
+Okay. So find me the closest matching
+houses,
+
+1106
+00:44:15,504 --> 00:44:17,712
+right. The ones that look the most similar
+to this.
+
+1107
+00:44:18,288 --> 00:44:20,400
+That's it. That's 3 lines of sequel.
+
+1108
+00:44:21,792 --> 00:44:24,528
+You don't have to know anything about
+machine learning to write that sequel.
+
+1109
+00:44:25,392 --> 00:44:28,704
+A dba or developer that has minimal
+experience
+
+1110
+00:44:28,704 --> 00:44:31,632
+with a database can learn to use this in a
+few minutes.
+
+1111
+00:44:31,632 --> 00:44:33,216
+I mean I just taught you how to do it.
+
+1112
+00:44:33,312 --> 00:44:34,896
+This is it, this is the full sequel.
+
+1113
+00:44:35,520 --> 00:44:37,824
+Okay, so that's finding the closest match.
+
+1114
+00:44:37,824 --> 00:44:40,368
+But remember we didn't want the closest
+match house because that house
+
+1115
+00:44:40,368 --> 00:44:42,768
+might be 1000 of miles away and I'm not
+interested in
+
+1116
+00:44:43,296 --> 00:44:45,744
+so well. You really want to do is combine
+
+1117
+00:44:45,888 --> 00:44:47,136
+that image search
+
+1118
+00:44:47,232 --> 00:44:49,152
+with the business data search.
+
+1119
+00:44:49,488 --> 00:44:50,928
+So here's how you do that.
+
+1120
+00:44:51,264 --> 00:44:53,904
+In here we show a five-line sequel
+statement.
+
+1121
+00:44:53,952 --> 00:44:55,776
+You're selecting from houses for sale
+
+1122
+00:44:55,872 --> 00:44:58,224
+by only want to see ones whose price
+
+1123
+00:44:58,368 --> 00:44:59,328
+is in my budget.
+
+1124
+00:44:59,328 --> 00:45:01,872
+So I'm getting that budget information
+from the customer table.
+
+1125
+00:45:02,688 --> 00:45:05,280
+And I only want to see houses that are for
+sale, that
+
+1126
+00:45:05,280 --> 00:45:07,680
+are in the city that I'm trying to find a
+house in.
+
+1127
+00:45:07,776 --> 00:45:09,024
+So again I'm going to search,
+
+1128
+00:45:10,080 --> 00:45:11,232
+compare the city that
+
+1129
+00:45:11,568 --> 00:45:14,544
+has for sale is into the city that the
+customer is interested in.
+
+1130
+00:45:15,072 --> 00:45:17,712
+And then I'm going to order those results,
+the ones that
+
+1131
+00:45:17,712 --> 00:45:20,352
+pass those queries, by the most similar
+houses.
+
+1132
+00:45:20,496 --> 00:45:22,464
+So now what this returns is
+
+1133
+00:45:23,184 --> 00:45:25,488
+houses in my budget and my city that look
+
+1134
+00:45:25,632 --> 00:45:26,880
+the most like this.
+
+1135
+00:45:27,312 --> 00:45:29,376
+So I've combined business data
+
+1136
+00:45:29,744 --> 00:45:30,544
+and
+
+1137
+00:45:30,720 --> 00:45:31,920
+ai vector data
+
+1138
+00:45:32,016 --> 00:45:32,976
+in one query
+
+1139
+00:45:33,072 --> 00:45:34,464
+5 lines of sequel,
+
+1140
+00:45:34,704 --> 00:45:36,576
+a single integrated solution
+
+1141
+00:45:36,816 --> 00:45:38,208
+that is fully consistent.
+
+1142
+00:45:38,208 --> 00:45:41,040
+And that's the big win in putting it all
+together.
+
+1143
+00:45:41,424 --> 00:45:42,528
+And it's really important.
+
+1144
+00:45:42,528 --> 00:45:43,488
+This is really important,
+
+1145
+00:45:43,616 --> 00:45:44,416
+which is
+
+1146
+00:45:45,072 --> 00:45:47,088
+you don't have to be an ai expert.
+
+1147
+00:45:48,432 --> 00:45:51,216
+Anybody in those anything about databases
+can write this query.
+
+1148
+00:45:51,840 --> 00:45:53,232
+It's super-simple,
+
+1149
+00:45:53,568 --> 00:45:55,392
+which is very different from in the past.
+
+1150
+00:45:55,392 --> 00:45:56,208
+I mean we
+
+1151
+00:45:56,304 --> 00:45:59,712
+at Oracle have had a lot of machine
+learning algorithms into Oracle database,
+
+1152
+00:46:00,192 --> 00:46:01,776
+but you had to know a lot about ai.
+
+1153
+00:46:01,776 --> 00:46:04,128
+You had to know how to create a model.
+
+1154
+00:46:04,368 --> 00:46:05,328
+You had to know
+
+1155
+00:46:05,520 --> 00:46:08,160
+all the different kinds of models you can
+create it from.
+
+1156
+00:46:08,304 --> 00:46:09,840
+You had to have training data.
+
+1157
+00:46:10,032 --> 00:46:12,000
+You have to train the model, you have to
+
+1158
+00:46:12,192 --> 00:46:13,536
+set the hyper parameters.
+
+1159
+00:46:13,536 --> 00:46:16,608
+There's a whole bunch of work that you had
+to do and you had the new, a lot
+
+1160
+00:46:16,752 --> 00:46:17,904
+of knowledge about
+
+1161
+00:46:18,096 --> 00:46:19,200
+to create that.
+
+1162
+00:46:20,112 --> 00:46:22,128
+Now. Would this a vector search?
+
+1163
+00:46:22,128 --> 00:46:23,472
+You don't have to know any of that stuff.
+
+1164
+00:46:23,856 --> 00:46:25,536
+You just write simple sequel
+
+1165
+00:46:25,776 --> 00:46:29,184
+and you're done. Any developer can do
+this, any dba can do this.
+
+1166
+00:46:29,472 --> 00:46:30,912
+It's ultra simple. It's actually
+
+1167
+00:46:31,536 --> 00:46:34,944
+much more powerful than what we had in the
+past, but also
+
+1168
+00:46:35,232 --> 00:46:36,624
+1000 times simpler.
+
+1169
+00:46:36,624 --> 00:46:37,584
+Anybody could do this,
+
+1170
+00:46:38,064 --> 00:46:39,552
+okay, so that's a key concept.
+
+1171
+00:46:40,032 --> 00:46:42,480
+So what did we do in Oracle database
+
+1172
+00:46:42,672 --> 00:46:44,736
+with vectors? I showed you the vector data
+type.
+
+1173
+00:46:44,736 --> 00:46:45,552
+So what do we have?
+
+1174
+00:46:45,936 --> 00:46:48,624
+We have all you need to know is there's a
+new type of data.
+
+1175
+00:46:48,624 --> 00:46:50,544
+It's just like the character number
+
+1176
+00:46:50,688 --> 00:46:51,648
+is another data type.
+
+1177
+00:46:51,648 --> 00:46:54,480
+It's called vector. You put your vectors,
+and there's just the column type.
+
+1178
+00:46:55,488 --> 00:46:57,024
+I showed you. There's a comparison funny.
+
+1179
+00:46:57,072 --> 00:46:59,040
+There's only one operation on vectors.
+
+1180
+00:46:59,568 --> 00:47:00,912
+Compare these 2 vectors.
+
+1181
+00:47:00,912 --> 00:47:02,640
+Compare the distance of the 2 vectors.
+
+1182
+00:47:02,688 --> 00:47:04,128
+That's it. That's the only operation.
+
+1183
+00:47:04,224 --> 00:47:07,440
+There's no point in looking at the numbers
+are doing anything else. It's
+
+1184
+00:47:07,680 --> 00:47:10,656
+1000 times simpler than implementing json
+or something like that
+
+1185
+00:47:10,752 --> 00:47:11,616
+super-simple
+
+1186
+00:47:11,760 --> 00:47:12,768
+store the vector.
+
+1187
+00:47:12,816 --> 00:47:15,072
+Compare the vector. So there's only 2
+operations.
+
+1188
+00:47:15,504 --> 00:47:17,088
+And then the 3rd thing
+
+1189
+00:47:17,232 --> 00:47:19,440
+that specific the vectors is
+
+1190
+00:47:19,536 --> 00:47:20,352
+we're adding
+
+1191
+00:47:21,024 --> 00:47:22,080
+very fast
+
+1192
+00:47:22,608 --> 00:47:23,712
+vector indexes.
+
+1193
+00:47:23,760 --> 00:47:26,256
+So when you compare these things, you
+don't want to compare it.
+
+1194
+00:47:26,496 --> 00:47:28,080
+To get every house in the world
+
+1195
+00:47:28,272 --> 00:47:29,520
+you want to vector index.
+
+1196
+00:47:29,520 --> 00:47:31,584
+That is a new type of index
+
+1197
+00:47:31,920 --> 00:47:34,080
+that does very fast comparisons
+
+1198
+00:47:34,272 --> 00:47:35,280
+across the vectors.
+
+1199
+00:47:35,424 --> 00:47:37,104
+But again you don't have to know how this
+works.
+
+1200
+00:47:37,104 --> 00:47:38,688
+You just say create vector index
+
+1201
+00:47:38,784 --> 00:47:39,648
+on this column.
+
+1202
+00:47:39,696 --> 00:47:40,896
+You got the vector index
+
+1203
+00:47:40,976 --> 00:47:41,776
+super simple,
+
+1204
+00:47:42,680 --> 00:47:43,480
+okay,
+
+1205
+00:47:43,728 --> 00:47:44,592
+and then,
+
+1206
+00:47:45,600 --> 00:47:46,992
+because we built
+
+1207
+00:47:47,280 --> 00:47:49,248
+a relational database over the last
+
+1208
+00:47:49,680 --> 00:47:54,144
+45 years, we have a lot of technology that
+we can bring into the vector space.
+
+1209
+00:47:54,576 --> 00:47:55,632
+So, for example,
+
+1210
+00:47:55,728 --> 00:47:57,936
+you can partition your vector index.
+
+1211
+00:47:58,128 --> 00:48:02,016
+So, in the example I'm using, you can
+partition your vector index
+
+1212
+00:48:02,408 --> 00:48:03,936
+by the city.
+
+1213
+00:48:04,848 --> 00:48:08,400
+So essentially, that creates a separate
+vector index for each city.
+
+1214
+00:48:08,400 --> 00:48:10,608
+So you're not looking at vectors at all.
+
+1215
+00:48:10,608 --> 00:48:12,096
+That aren't even in the city that I
+mentioned.
+
+1216
+00:48:12,096 --> 00:48:13,488
+There's no point in looking at vectors
+
+1217
+00:48:13,584 --> 00:48:14,448
+for houses in
+
+1218
+00:48:14,640 --> 00:48:16,608
+Berlin when I'm looking for Las Vegas.
+
+1219
+00:48:16,896 --> 00:48:18,048
+So that happens automatically.
+
+1220
+00:48:18,048 --> 00:48:19,776
+It's a standard database technology.
+
+1221
+00:48:19,904 --> 00:48:20,704
+Partition
+
+1222
+00:48:20,976 --> 00:48:22,896
+your your index by
+
+1223
+00:48:22,992 --> 00:48:24,144
+a relational column.
+
+1224
+00:48:25,584 --> 00:48:28,272
+The whole thing works transparently on
+real application clusters.
+
+1225
+00:48:28,272 --> 00:48:29,856
+So we have our scale-out solution.
+
+1226
+00:48:30,720 --> 00:48:32,064
+It's like every other day to type
+
+1227
+00:48:32,160 --> 00:48:33,360
+it automatically
+
+1228
+00:48:33,840 --> 00:48:35,808
+works across all the nodes of a cluster.
+
+1229
+00:48:35,808 --> 00:48:37,248
+That data is fully consistent.
+
+1230
+00:48:38,064 --> 00:48:39,216
+Something that's interesting is
+
+1231
+00:48:39,888 --> 00:48:43,152
+these vector searches like that, that path
+search that I was showing you.
+
+1232
+00:48:43,248 --> 00:48:45,024
+This is an old tp operation.
+
+1233
+00:48:45,120 --> 00:48:46,368
+It happens in real-time.
+
+1234
+00:48:46,848 --> 00:48:50,592
+So when you, when you say finally houses
+immediately, you get a response
+
+1235
+00:48:50,976 --> 00:48:54,864
+and a vector query will typically respond
+in a few milliseconds. So
+
+1236
+00:48:55,008 --> 00:48:57,984
+it's real-time, it says an oltp operation,
+it's not,
+
+1237
+00:48:58,080 --> 00:49:00,288
+it's not a report, it's not an analytic
+operation.
+
+1238
+00:49:00,768 --> 00:49:03,408
+And one thing you can do with racq for
+many years as you can isolate,
+
+1239
+00:49:03,408 --> 00:49:05,952
+know so if you have your oltp system and
+you're worried about,
+
+1240
+00:49:06,144 --> 00:49:09,552
+hey, I don't want to add this weird vector
+stuff because it might mess up my ltp.
+
+1241
+00:49:09,552 --> 00:49:11,424
+You can just run it on a separate set of
+nodes,
+
+1242
+00:49:11,568 --> 00:49:13,680
+but it can access all the data in the
+database, something
+
+1243
+00:49:13,680 --> 00:49:15,360
+we've been able to do an rak for years.
+
+1244
+00:49:16,320 --> 00:49:18,912
+We can transparently offload vector
+searches
+
+1245
+00:49:18,912 --> 00:49:21,264
+to exadata storage, so we've had this
+March storage.
+
+1246
+00:49:21,456 --> 00:49:22,992
+If you're searching through a lot of data,
+
+1247
+00:49:23,376 --> 00:49:24,864
+you send the search to the data.
+
+1248
+00:49:24,864 --> 00:49:26,400
+You don't bring the data to the search.
+
+1249
+00:49:26,400 --> 00:49:27,936
+This is something we've been doing for
+years.
+
+1250
+00:49:28,080 --> 00:49:29,424
+Were doing it with vectors.
+
+1251
+00:49:29,760 --> 00:49:31,632
+You can shard your vector. So
+
+1252
+00:49:31,728 --> 00:49:33,792
+if you have regulations that say, hey,
+
+1253
+00:49:34,128 --> 00:49:36,576
+the the data for Europe needs to stay
+
+1254
+00:49:36,576 --> 00:49:38,976
+in Europe, the data for India needs to
+stay in India.
+
+1255
+00:49:39,024 --> 00:49:40,992
+You can do that, you can use sharding to
+
+1256
+00:49:40,992 --> 00:49:42,912
+spread out your vectors to where you need
+them.
+
+1257
+00:49:43,104 --> 00:49:44,160
+You can use it for,
+
+1258
+00:49:44,456 --> 00:49:45,256
+for
+
+1259
+00:49:45,264 --> 00:49:48,528
+distributed databases, for higher
+scalability, for anything like that,
+
+1260
+00:49:48,816 --> 00:49:52,464
+and there's all these other features that
+come to bear with with vectors also. So
+
+1261
+00:49:52,560 --> 00:49:56,016
+everything that we've built we built,
+peril, sequel transactions,
+
+1262
+00:49:56,016 --> 00:49:58,176
+analytics, disaster recovery, security,
+
+1263
+00:49:58,320 --> 00:49:59,520
+all that stuff
+
+1264
+00:49:59,856 --> 00:50:00,720
+applies,
+
+1265
+00:50:01,152 --> 00:50:02,592
+which it doesn't really apply.
+
+1266
+00:50:02,592 --> 00:50:03,744
+When you have a new vector data.
+
+1267
+00:50:03,744 --> 00:50:04,848
+If they haven't built any of this,
+
+1268
+00:50:05,552 --> 00:50:06,352
+all right,
+
+1269
+00:50:07,016 --> 00:50:07,816
+so that's
+
+1270
+00:50:08,048 --> 00:50:08,848
+that's
+
+1271
+00:50:09,600 --> 00:50:10,992
+that's kind of what it is,
+
+1272
+00:50:11,376 --> 00:50:12,528
+what we built, how
+
+1273
+00:50:12,624 --> 00:50:14,448
+you know. What are the benefits of it
+
+1274
+00:50:14,528 --> 00:50:15,328
+now?
+
+1275
+00:50:16,416 --> 00:50:18,336
+Adding semantic search, the relation,
+which
+
+1276
+00:50:18,336 --> 00:50:20,208
+is what I've been talking about, that's
+great,
+
+1277
+00:50:21,408 --> 00:50:23,040
+but we can take it a step further.
+
+1278
+00:50:23,136 --> 00:50:24,672
+What happens if we add
+
+1279
+00:50:24,816 --> 00:50:26,208
+generative ai
+
+1280
+00:50:26,400 --> 00:50:27,360
+on top of that?
+
+1281
+00:50:28,368 --> 00:50:30,144
+Then things get even more interesting.
+
+1282
+00:50:30,576 --> 00:50:31,392
+So
+
+1283
+00:50:31,680 --> 00:50:32,928
+vector search
+
+1284
+00:50:33,600 --> 00:50:35,280
+plus generative ai
+
+1285
+00:50:35,808 --> 00:50:38,112
+enables end users to declare their intent
+by
+
+1286
+00:50:38,112 --> 00:50:40,416
+simply using natural language questions.
+
+1287
+00:50:40,512 --> 00:50:43,536
+So you're going to ask the database things
+in natural language,
+
+1288
+00:50:44,112 --> 00:50:46,128
+and the way this works is that
+
+1289
+00:50:46,464 --> 00:50:49,440
+a vector search maps the natural language
+question
+
+1290
+00:50:49,584 --> 00:50:51,264
+to the relevant data in the database.
+
+1291
+00:50:51,264 --> 00:50:54,240
+So, depending on the question, it finds
+the relevant data in the database
+
+1292
+00:50:54,768 --> 00:50:57,024
+and then the user question plus
+
+1293
+00:50:57,216 --> 00:50:59,664
+the relevant data is handed over to the
+Jenner.
+
+1294
+00:50:59,664 --> 00:51:01,200
+Today I to answer your question
+
+1295
+00:51:01,440 --> 00:51:03,696
+so that's kind of the big picture of how
+it works.
+
+1296
+00:51:04,128 --> 00:51:06,000
+But let's I'm going to go through the
+details
+
+1297
+00:51:06,000 --> 00:51:07,824
+now exactly how it's, because this is a
+big deal.
+
+1298
+00:51:07,824 --> 00:51:09,888
+This is kind of a big transformation
+
+1299
+00:51:10,080 --> 00:51:12,624
+in how data and databases are going to get
+used.
+
+1300
+00:51:13,184 --> 00:51:13,984
+So
+
+1301
+00:51:14,160 --> 00:51:15,552
+you know my analogy
+
+1302
+00:51:16,272 --> 00:51:18,960
+and we've all used things like chechi PT
+and we'd tried it out
+
+1303
+00:51:19,440 --> 00:51:21,888
+my analogy. It's kind of like a smart
+college grad.
+
+1304
+00:51:23,136 --> 00:51:25,872
+It has a lot of general knowledge about
+the world,
+
+1305
+00:51:26,112 --> 00:51:28,560
+but it doesn't necessarily know anything
+or a whole lot about
+
+1306
+00:51:28,560 --> 00:51:31,008
+your specific products, your specific
+business.
+
+1307
+00:51:31,056 --> 00:51:33,072
+But it's very smart about the general
+world.
+
+1308
+00:51:34,128 --> 00:51:38,400
+So the analogy is imagine you hire a smart
+college grad
+
+1309
+00:51:38,640 --> 00:51:40,224
+to answer support calls.
+
+1310
+00:51:40,656 --> 00:51:42,960
+So to answer your company support calls
+
+1311
+00:51:43,536 --> 00:51:46,800
+and those a lot about stuff, but it
+doesn't know anything about your products.
+
+1312
+00:51:46,800 --> 00:51:49,104
+It doesn't know what kind of failures
+other customers
+
+1313
+00:51:49,104 --> 00:51:50,928
+have seen, what kind of solutions we
+provided.
+
+1314
+00:51:51,600 --> 00:51:54,288
+So it's not going to be very good at
+answering questions.
+
+1315
+00:51:54,288 --> 00:51:56,160
+So when a user asks a question, it's going
+to say
+
+1316
+00:51:56,688 --> 00:51:58,128
+you know what happened to my phone.
+
+1317
+00:51:58,128 --> 00:52:00,576
+It started beeping and the battery started
+going,
+
+1318
+00:52:00,672 --> 00:52:01,824
+and I got this error.
+
+1319
+00:52:02,160 --> 00:52:04,704
+If you ask Jenner via its gonna be like I
+don't know.
+
+1320
+00:52:05,520 --> 00:52:07,440
+I don't know anything about that specific
+products.
+
+1321
+00:52:08,688 --> 00:52:09,792
+But
+
+1322
+00:52:10,032 --> 00:52:12,000
+now, if you could augment
+
+1323
+00:52:12,672 --> 00:52:13,536
+that generate
+
+1324
+00:52:13,664 --> 00:52:14,464
+knowledge,
+
+1325
+00:52:14,768 --> 00:52:15,568
+with
+
+1326
+00:52:15,696 --> 00:52:18,672
+all the support information that you've
+accumulated, all the previous
+
+1327
+00:52:18,960 --> 00:52:20,880
+kind of errors that customers have
+
+1328
+00:52:21,216 --> 00:52:22,128
+have reported,
+
+1329
+00:52:22,320 --> 00:52:24,480
+then it could provide much better answers.
+
+1330
+00:52:24,672 --> 00:52:26,400
+And that's basically what
+
+1331
+00:52:26,976 --> 00:52:31,584
+retrieval augmented generation does, and
+that's where the vector databases come in.
+
+1332
+00:52:32,352 --> 00:52:34,128
+So the vector database
+
+1333
+00:52:34,320 --> 00:52:36,528
+can augment the generative ai
+
+1334
+00:52:37,584 --> 00:52:39,888
+by retrieving detailed
+
+1335
+00:52:40,128 --> 00:52:42,480
+content. That's often private to you
+
+1336
+00:52:42,960 --> 00:52:44,736
+that you need to answer questions,
+
+1337
+00:52:45,456 --> 00:52:48,384
+and this is called retrieval augmented
+generation.
+
+1338
+00:52:48,912 --> 00:52:50,256
+So you retrieve
+
+1339
+00:52:50,496 --> 00:52:52,128
+business specific content
+
+1340
+00:52:52,320 --> 00:52:55,344
+and you augment the ai using that content
+
+1341
+00:52:55,776 --> 00:52:56,928
+and the word
+
+1342
+00:52:57,600 --> 00:52:58,752
+rpg rag.
+
+1343
+00:52:58,800 --> 00:53:00,048
+You're going to hear a lot.
+
+1344
+00:53:00,144 --> 00:53:01,440
+If you haven't heard a lot
+
+1345
+00:53:01,632 --> 00:53:03,600
+already, you're going to hear a lot going
+forward.
+
+1346
+00:53:03,744 --> 00:53:05,760
+Retrieval augmented generation. That's
+how.
+
+1347
+00:53:06,000 --> 00:53:07,824
+That's how the world of data
+
+1348
+00:53:08,016 --> 00:53:09,888
+basically meets the world of ai
+
+1349
+00:53:10,128 --> 00:53:12,432
+through retrieval augmented generation. So
+
+1350
+00:53:12,656 --> 00:53:13,456
+remember that one
+
+1351
+00:53:14,264 --> 00:53:15,064
+all right.
+
+1352
+00:53:15,552 --> 00:53:16,704
+So how does this work?
+
+1353
+00:53:17,904 --> 00:53:19,776
+So the user end user asks a question,
+
+1354
+00:53:20,048 --> 00:53:20,848
+hey,
+
+1355
+00:53:20,928 --> 00:53:23,808
+whatever it is, I just said I, you know my
+phone is overheating.
+
+1356
+00:53:23,808 --> 00:53:25,296
+It's beeping and I get this error
+
+1357
+00:53:25,496 --> 00:53:26,296
+write.
+
+1358
+00:53:26,496 --> 00:53:28,992
+So the 1st thing that happens is that
+question
+
+1359
+00:53:29,408 --> 00:53:30,208
+gets
+
+1360
+00:53:30,576 --> 00:53:32,016
+encoded into a vector.
+
+1361
+00:53:32,784 --> 00:53:34,464
+Okay, so it's turned into a vector.
+
+1362
+00:53:35,232 --> 00:53:37,152
+Now. Once it's the vector,
+
+1363
+00:53:37,824 --> 00:53:40,080
+I use that vector to search my vector
+database,
+
+1364
+00:53:40,080 --> 00:53:42,288
+to search the vectors in my Oracle
+database
+
+1365
+00:53:42,440 --> 00:53:43,240
+to match
+
+1366
+00:53:43,680 --> 00:53:45,312
+documents that closely match it.
+
+1367
+00:53:45,312 --> 00:53:47,760
+So I look at it my support documents, past
+customer
+
+1368
+00:53:47,760 --> 00:53:49,632
+issues, past problems that I know about.
+
+1369
+00:53:49,872 --> 00:53:52,800
+I'm searching through all that stuff to
+find the most relevant
+
+1370
+00:53:52,800 --> 00:53:54,912
+content for that specific question.
+
+1371
+00:53:55,968 --> 00:53:57,216
+Once I find it,
+
+1372
+00:53:57,608 --> 00:53:58,408
+I
+
+1373
+00:53:58,416 --> 00:53:59,904
+pull it out from the database
+
+1374
+00:54:00,288 --> 00:54:04,128
+and I put it together with the question
+and hand it to the generative ai.
+
+1375
+00:54:04,416 --> 00:54:05,616
+So now generally, I
+
+1376
+00:54:05,808 --> 00:54:06,912
+got general knowledge
+
+1377
+00:54:07,104 --> 00:54:10,368
+as the specific knowledge of past
+incidents that are related to this,
+
+1378
+00:54:10,608 --> 00:54:11,568
+and it can provide
+
+1379
+00:54:11,808 --> 00:54:13,200
+a natural language
+
+1380
+00:54:13,208 --> 00:54:14,008
+answer
+
+1381
+00:54:14,064 --> 00:54:14,928
+to the question.
+
+1382
+00:54:15,248 --> 00:54:16,048
+So
+
+1383
+00:54:16,224 --> 00:54:19,200
+that's how this whole process works and
+how it all fits together.
+
+1384
+00:54:19,976 --> 00:54:20,776
+Okay,
+
+1385
+00:54:21,024 --> 00:54:23,664
+so that's retrieval, augmented generation,
+
+1386
+00:54:24,048 --> 00:54:25,488
+and that's how databases
+
+1387
+00:54:25,728 --> 00:54:27,072
+work with ai.
+
+1388
+00:54:27,464 --> 00:54:28,264
+Now.
+
+1389
+00:54:28,752 --> 00:54:29,952
+I'm delighted now
+
+1390
+00:54:30,288 --> 00:54:34,848
+to be joined by one of the world's top
+experts in generative ai.
+
+1391
+00:54:36,336 --> 00:54:37,248
+This expert
+
+1392
+00:54:37,352 --> 00:54:38,152
+co-authored
+
+1393
+00:54:38,448 --> 00:54:39,312
+the paper.
+
+1394
+00:54:39,360 --> 00:54:42,672
+Attention is all you need, which
+introduced the Transformers
+
+1395
+00:54:42,816 --> 00:54:46,368
+and those of you that follow generative AI
+know that Transformers
+
+1396
+00:54:46,800 --> 00:54:49,152
+is the groundbreaking neural net
+architecture.
+
+1397
+00:54:49,152 --> 00:54:52,128
+That is the foundation of all the
+generative ai. That's out there.
+
+1398
+00:54:52,704 --> 00:54:53,568
+So
+
+1399
+00:54:53,856 --> 00:54:57,696
+please welcome Aden Gomez, the c0 coherent
+to the stage.
+
+1400
+00:55:07,200 --> 00:55:08,304
+Thanks for joining us
+
+1401
+00:55:08,576 --> 00:55:09,376
+here.
+
+1402
+00:55:10,112 --> 00:55:10,912
+So
+
+1403
+00:55:11,664 --> 00:55:13,680
+sometimes I talk about this a generative.
+
+1404
+00:55:13,824 --> 00:55:14,976
+It's kind of like magic.
+
+1405
+00:55:15,840 --> 00:55:17,664
+You ask questions and answers,
+
+1406
+00:55:17,768 --> 00:55:18,568
+and
+
+1407
+00:55:18,960 --> 00:55:19,920
+he's the magician.
+
+1408
+00:55:19,920 --> 00:55:20,928
+He's the guy that does.
+
+1409
+00:55:21,744 --> 00:55:24,384
+The guy that invented the magic behind
+generative ai
+
+1410
+00:55:24,480 --> 00:55:26,544
+are one of the people that invented the
+magic.
+
+1411
+00:55:26,928 --> 00:55:28,848
+So it's a great pleasure to have you here.
+Aden,
+
+1412
+00:55:29,520 --> 00:55:32,640
+can you tell us a little bit about your
+company, go here
+
+1413
+00:55:32,928 --> 00:55:35,088
+and a little bit about your background.
+Also,
+
+1414
+00:55:35,424 --> 00:55:36,576
+yeah, of course, so
+
+1415
+00:55:36,768 --> 00:55:39,312
+my co-founders and I make an Ivan myself.
+
+1416
+00:55:39,552 --> 00:55:41,280
+We started the company about
+
+1417
+00:55:41,424 --> 00:55:42,336
+4 years ago
+
+1418
+00:55:42,912 --> 00:55:44,880
+and before that I had been at
+
+1419
+00:55:45,216 --> 00:55:47,664
+Google brain, which is Google's ai
+research lab,
+
+1420
+00:55:48,048 --> 00:55:51,696
+and I was part of the team that created
+the transformer, which is
+
+1421
+00:55:52,224 --> 00:55:55,392
+the backbone of this latest revolution in
+ai.
+
+1422
+00:55:55,952 --> 00:55:56,752
+And
+
+1423
+00:55:57,072 --> 00:55:58,800
+what coherer does as we build
+
+1424
+00:55:58,896 --> 00:56:00,480
+2 different types of models?
+
+1425
+00:56:00,816 --> 00:56:01,872
+So the 1st type
+
+1426
+00:56:02,112 --> 00:56:03,312
+you might be familiar with,
+
+1427
+00:56:03,984 --> 00:56:07,968
+thanks to the chatbots that are on the
+Internet and available to consumers,
+
+1428
+00:56:08,160 --> 00:56:08,976
+it's called
+
+1429
+00:56:09,072 --> 00:56:10,176
+generative models.
+
+1430
+00:56:10,608 --> 00:56:12,768
+The 2nd type, which was just introduced,
+
+1431
+00:56:13,008 --> 00:56:16,080
+are embedding models, and what these do?
+Are they
+
+1432
+00:56:16,416 --> 00:56:18,864
+a transform texts into
+
+1433
+00:56:19,104 --> 00:56:22,464
+vectors which can then be fed into a
+vector database?
+
+1434
+00:56:23,168 --> 00:56:24,384
+And yeah,
+
+1435
+00:56:25,152 --> 00:56:28,992
+yeah, so you're the guy, so he's the guy
+that takes the image, takes the document
+
+1436
+00:56:29,472 --> 00:56:33,360
+and does the magic to convert it into a
+vector, which is a bunch of numbers, but
+
+1437
+00:56:33,456 --> 00:56:35,568
+not just any numbers, numbers that
+represent the
+
+1438
+00:56:35,568 --> 00:56:37,632
+semantic content of the objects. So
+
+1439
+00:56:37,728 --> 00:56:39,072
+okay, so that's great, so that's
+
+1440
+00:56:39,312 --> 00:56:41,616
+that's how you interact with vector
+databases.
+
+1441
+00:56:41,760 --> 00:56:45,792
+So what high value AI use cases is go here
+used for.
+
+1442
+00:56:46,512 --> 00:56:47,952
+So one of the
+
+1443
+00:56:48,768 --> 00:56:50,832
+most popular use cases is
+
+1444
+00:56:51,024 --> 00:56:52,368
+knowledge augmentation.
+
+1445
+00:56:53,328 --> 00:56:56,208
+So, for instance, when you have knowledge
+workers,
+
+1446
+00:56:56,400 --> 00:57:00,096
+oftentimes they have to conduct this
+really laborious
+
+1447
+00:57:00,288 --> 00:57:02,832
+research process, which can take weeks or
+months.
+
+1448
+00:57:02,832 --> 00:57:04,464
+They get a question that needs an answer.
+
+1449
+00:57:04,656 --> 00:57:06,672
+They need to read 100 documents
+
+1450
+00:57:06,864 --> 00:57:08,352
+to get an answer to that question
+
+1451
+00:57:09,072 --> 00:57:10,368
+with knowledge assistance.
+
+1452
+00:57:10,368 --> 00:57:12,528
+While we can do is have the model,
+
+1453
+00:57:12,672 --> 00:57:13,632
+do that for them,
+
+1454
+00:57:14,064 --> 00:57:16,128
+and so they can ask that question to the
+model.
+
+1455
+00:57:16,320 --> 00:57:19,008
+The model has access to the entirety of
+the Internet
+
+1456
+00:57:19,248 --> 00:57:21,840
+and now, thanks to vector databases and
+rag,
+
+1457
+00:57:22,080 --> 00:57:24,624
+they can also have proprietary
+information.
+
+1458
+00:57:24,960 --> 00:57:28,848
+Do that research for you, synthesize it,
+distill, summarize
+
+1459
+00:57:28,944 --> 00:57:31,296
+and then come back with a verifiable
+answer
+
+1460
+00:57:32,736 --> 00:57:33,888
+gets amazing stuff.
+
+1461
+00:57:34,016 --> 00:57:34,816
+But
+
+1462
+00:57:35,136 --> 00:57:37,296
+are there any challenges that
+organizations
+
+1463
+00:57:37,296 --> 00:57:38,832
+are seeing with generative ai?
+
+1464
+00:57:39,200 --> 00:57:40,000
+Estimate Lisa,
+
+1465
+00:57:40,128 --> 00:57:42,432
+you know, generative ai is amazing
+
+1466
+00:57:42,528 --> 00:57:43,872
+and the progress is
+
+1467
+00:57:44,144 --> 00:57:44,944
+staggering,
+
+1468
+00:57:45,552 --> 00:57:47,568
+but there definitely are challenges.
+
+1469
+00:57:47,568 --> 00:57:48,480
+For instance,
+
+1470
+00:57:48,672 --> 00:57:51,600
+the major one that I'm sure a lot of you
+know about is hallucination.
+
+1471
+00:57:52,032 --> 00:57:53,184
+So these models
+
+1472
+00:57:53,328 --> 00:57:54,144
+can make up stuff.
+
+1473
+00:57:54,192 --> 00:57:57,168
+They could just dream up facts which
+aren't actually accurate,
+
+1474
+00:57:57,504 --> 00:57:59,760
+and that's a huge issue in terms of
+
+1475
+00:58:00,096 --> 00:58:01,488
+you know being able to
+
+1476
+00:58:02,208 --> 00:58:03,024
+and rely
+
+1477
+00:58:03,312 --> 00:58:04,368
+on the underlying
+
+1478
+00:58:04,496 --> 00:58:05,296
+technology.
+
+1479
+00:58:06,056 --> 00:58:06,856
+Yeah,
+
+1480
+00:58:07,056 --> 00:58:09,216
+yeah, I mean that that comes up a lot, and
+
+1481
+00:58:09,408 --> 00:58:10,896
+you know we talked a little bit of a rag.
+
+1482
+00:58:10,896 --> 00:58:12,576
+Tell us how rag helps with that.
+
+1483
+00:58:13,056 --> 00:58:14,784
+Yes, a rag is the most
+
+1484
+00:58:14,928 --> 00:58:16,224
+promising solution
+
+1485
+00:58:16,320 --> 00:58:18,144
+to the issue of hallucinations.
+
+1486
+00:58:18,624 --> 00:58:20,352
+It gives you 2 different things.
+
+1487
+00:58:20,688 --> 00:58:21,792
+The 1st is
+
+1488
+00:58:21,984 --> 00:58:22,848
+reliability.
+
+1489
+00:58:23,184 --> 00:58:25,680
+So now, instead of just needing to take
+
+1490
+00:58:25,920 --> 00:58:27,648
+the language models output
+
+1491
+00:58:27,984 --> 00:58:28,848
+on its word,
+
+1492
+00:58:29,280 --> 00:58:30,576
+what you can do is
+
+1493
+00:58:30,720 --> 00:58:33,072
+because the model is going out querying,
+
+1494
+00:58:33,408 --> 00:58:36,192
+pulling back documents and using that as
+part of an answer.
+
+1495
+00:58:36,392 --> 00:58:37,192
+It can cite.
+
+1496
+00:58:37,536 --> 00:58:40,704
+It can cite exactly where it drew that
+information from,
+
+1497
+00:58:40,896 --> 00:58:42,816
+and so the humans can verify.
+
+1498
+00:58:43,200 --> 00:58:44,400
+They can trust this model.
+
+1499
+00:58:45,504 --> 00:58:48,096
+The 2nd major benefit
+
+1500
+00:58:48,384 --> 00:58:49,728
+is the fact that
+
+1501
+00:58:50,112 --> 00:58:53,280
+these models, when they are initially
+trained, they're trained on the open web,
+
+1502
+00:58:53,616 --> 00:58:57,072
+so they only know what's publicly
+available out on the Internet.
+
+1503
+00:58:57,464 --> 00:58:58,264
+That's not
+
+1504
+00:58:58,368 --> 00:59:00,336
+really relevant for a lot of enterprises.
+
+1505
+00:59:00,336 --> 00:59:02,448
+You want to be able to leverage your
+internal
+
+1506
+00:59:02,640 --> 00:59:04,176
+ip, your own data,
+
+1507
+00:59:04,368 --> 00:59:06,432
+and do that in a way that's completely
+secure.
+
+1508
+00:59:06,776 --> 00:59:07,576
+And so,
+
+1509
+00:59:08,064 --> 00:59:10,800
+by being able to use rag to sit
+
+1510
+00:59:10,800 --> 00:59:13,488
+these models down next to your internal
+databases,
+
+1511
+00:59:13,632 --> 00:59:14,832
+your data stores.
+
+1512
+00:59:15,072 --> 00:59:16,992
+What that model is now able to do
+
+1513
+00:59:17,136 --> 00:59:19,152
+is know everything the organization knows,
+
+1514
+00:59:19,296 --> 00:59:22,176
+and that creates a much more useful
+
+1515
+00:59:22,368 --> 00:59:23,472
+user experience.
+
+1516
+00:59:23,616 --> 00:59:24,624
+Yeah, definitely
+
+1517
+00:59:25,008 --> 00:59:27,936
+I compare it to kind of cramming before a
+test. You get,
+
+1518
+00:59:28,176 --> 00:59:29,712
+you get the relevant information,
+
+1519
+00:59:29,744 --> 00:59:30,544
+and suddenly
+
+1520
+00:59:30,576 --> 00:59:31,824
+it's fresh in your brain.
+
+1521
+00:59:33,168 --> 00:59:34,992
+I have another question for you, which is
+
+1522
+00:59:35,424 --> 00:59:40,272
+what's the difference between training on
+all your documents versus using rag like?
+
+1523
+00:59:40,896 --> 00:59:42,288
+Why would you do one or the other?
+
+1524
+00:59:42,768 --> 00:59:45,072
+Yes, a training is very good at
+
+1525
+00:59:45,168 --> 00:59:47,472
+changing the personality of the model,
+making
+
+1526
+00:59:47,472 --> 00:59:49,440
+the model speak in your brand voice.
+
+1527
+00:59:49,680 --> 00:59:52,272
+But it's not so great that adding
+knowledge.
+
+1528
+00:59:52,464 --> 00:59:55,392
+If you want to add knowledge and you want
+to keep it up to date on a
+
+1529
+00:59:55,632 --> 00:59:58,464
+daily hourly millisecond basis,
+
+1530
+00:59:58,704 --> 00:59:59,808
+you can't do that with training.
+
+1531
+00:59:59,856 --> 01:00:01,776
+You can't retrain every millisecond,
+
+1532
+01:00:02,112 --> 01:00:05,472
+but what you can do is you can update your
+databases every millisecond,
+
+1533
+01:00:05,808 --> 01:00:08,928
+and so this keeps your models fresh,
+always up to date,
+
+1534
+01:00:09,120 --> 01:00:10,512
+and you can constantly
+
+1535
+01:00:10,848 --> 01:00:12,048
+change their knowledge base.
+
+1536
+01:00:12,048 --> 01:00:14,448
+You can pull out things if you don't want
+it to know that
+
+1537
+01:00:14,544 --> 01:00:15,696
+you can add new things.
+
+1538
+01:00:16,176 --> 01:00:17,760
+And so the model is always up to date.
+
+1539
+01:00:18,144 --> 01:00:19,392
+Yeah. That's a great point.
+
+1540
+01:00:19,392 --> 01:00:21,600
+I am you know in that house hunting model
+we talked about.
+
+1541
+01:00:21,792 --> 01:00:24,816
+If a new house comes on the market boom,
+it's instantly available.
+
+1542
+01:00:24,960 --> 01:00:27,072
+If a house gets sold, you can take it off
+instantly.
+
+1543
+01:00:27,072 --> 01:00:30,144
+You don't have to retrain a model and
+wait, you know week a month or something
+
+1544
+01:00:30,144 --> 01:00:33,072
+for that to happen and spend 1,000,000 of
+dollars on exactly so.
+
+1545
+01:00:33,072 --> 01:00:34,944
+Yeah, that's that's a big deal, which is
+why
+
+1546
+01:00:35,616 --> 01:00:38,352
+retrieval, augmented generations going to
+be a big deal for
+
+1547
+01:00:38,544 --> 01:00:39,696
+for the database world.
+
+1548
+01:00:39,936 --> 01:00:40,752
+So
+
+1549
+01:00:41,088 --> 01:00:44,544
+a super amount of cool stuff, it's very
+transformative.
+
+1550
+01:00:44,880 --> 01:00:46,368
+What are you looking at for the future?
+
+1551
+01:00:46,368 --> 01:00:47,184
+What's your
+
+1552
+01:00:47,328 --> 01:00:48,960
+next thing that you're going to do?
+
+1553
+01:00:49,296 --> 01:00:51,456
+Yeah, so there's a lot that's coming down
+the pipe.
+
+1554
+01:00:51,456 --> 01:00:53,952
+But the thing I'm most excited about today
+is the
+
+1555
+01:00:53,952 --> 01:00:56,256
+introduction of our new embeddings models,
+
+1556
+01:00:56,544 --> 01:00:58,848
+and so hopefully, as you can see on the
+screen,
+
+1557
+01:00:58,848 --> 01:01:01,152
+we've just introduced our latest
+embeddings,
+
+1558
+01:01:01,328 --> 01:01:02,128
+which
+
+1559
+01:01:02,496 --> 01:01:04,656
+frankly, blow the competition out of the
+water.
+
+1560
+01:01:04,848 --> 01:01:08,208
+Specifically on datasets that are more
+heterogenous,
+
+1561
+01:01:08,448 --> 01:01:12,864
+that include multiple different sources of
+data, they might be a little bit noisy.
+
+1562
+01:01:13,152 --> 01:01:16,272
+In that case, we perform about twice as
+well
+
+1563
+01:01:16,512 --> 01:01:17,424
+as a competition,
+
+1564
+01:01:17,808 --> 01:01:19,728
+and it's not just accuracy.
+
+1565
+01:01:19,824 --> 01:01:22,704
+It's also speed, scalability and
+efficiency.
+
+1566
+01:01:23,040 --> 01:01:24,912
+So, during the training of this model,
+
+1567
+01:01:25,104 --> 01:01:28,272
+we specifically focused on being able to
+compress them,
+
+1568
+01:01:28,752 --> 01:01:29,760
+and we can do that.
+
+1569
+01:01:29,808 --> 01:01:30,816
+32 fold
+
+1570
+01:01:31,112 --> 01:01:31,912
+and sew.
+
+1571
+01:01:32,016 --> 01:01:34,704
+Compressing these models 32 times over
+
+1572
+01:01:34,896 --> 01:01:36,720
+preserves 96%
+
+1573
+01:01:37,296 --> 01:01:38,352
+of the accuracy.
+
+1574
+01:01:38,640 --> 01:01:40,224
+Yeah, super excited to have that
+
+1575
+01:01:40,656 --> 01:01:41,952
+lowers the costs,
+
+1576
+01:01:42,096 --> 01:01:44,064
+gives you faster results. Yeah.
+
+1577
+01:01:44,160 --> 01:01:45,120
+Yeah, as we mentioned,
+
+1578
+01:01:45,648 --> 01:01:48,192
+you know, this is a world where people
+want results immediately.
+
+1579
+01:01:48,192 --> 01:01:49,152
+So you do the search.
+
+1580
+01:01:49,248 --> 01:01:50,688
+You want the result right now.
+
+1581
+01:01:50,688 --> 01:01:52,464
+You're not. You don't want it 5 minutes
+from now.
+
+1582
+01:01:52,560 --> 01:01:53,664
+You're driving around the town.
+
+1583
+01:01:53,664 --> 01:01:54,768
+You need the result right now.
+
+1584
+01:01:54,768 --> 01:01:55,968
+So that's very cool.
+
+1585
+01:01:56,072 --> 01:01:56,872
+And this
+
+1586
+01:01:57,320 --> 01:01:58,120
+the
+
+1587
+01:01:58,464 --> 01:02:00,000
+the noisy data
+
+1588
+01:02:00,240 --> 01:02:01,872
+maybe describe a little bit what?
+
+1589
+01:02:01,872 --> 01:02:03,120
+What does it mean? Noisy data?
+
+1590
+01:02:03,504 --> 01:02:06,720
+Yes, so oftentimes, your datasets aren't
+necessarily clean.
+
+1591
+01:02:06,720 --> 01:02:07,536
+They contain
+
+1592
+01:02:07,920 --> 01:02:11,376
+a perhaps different sources of knowledge
+coming in from,
+
+1593
+01:02:11,616 --> 01:02:14,544
+you know, pdf scrapes, which have their
+own particular
+
+1594
+01:02:14,544 --> 01:02:16,848
+formatting errors from the scraping
+process,
+
+1595
+01:02:17,040 --> 01:02:19,488
+and also, maybe some emails in there,
+which look
+
+1596
+01:02:19,680 --> 01:02:20,784
+entirely different.
+
+1597
+01:02:20,984 --> 01:02:22,176
+With a
+
+1598
+01:02:22,208 --> 01:02:23,008
+search
+
+1599
+01:02:23,616 --> 01:02:25,488
+with embedding mechanisms of the past,
+
+1600
+01:02:25,680 --> 01:02:27,696
+those would be treated as quite separate,
+
+1601
+01:02:28,176 --> 01:02:31,296
+and so the results that you would get for
+a query
+
+1602
+01:02:31,536 --> 01:02:34,848
+would be missing parts of the information
+because they'd focus over here.
+
+1603
+01:02:35,088 --> 01:02:38,880
+What we've done as part of our training is
+bring that together, unify it.
+
+1604
+01:02:39,072 --> 01:02:41,520
+And so, no matter how noisy or
+
+1605
+01:02:41,808 --> 01:02:45,168
+different the structure and formatting of
+these databases are,
+
+1606
+01:02:45,360 --> 01:02:48,384
+you're able to get extremely, extremely
+accurate results.
+
+1607
+01:02:48,464 --> 01:02:49,264
+Know,
+
+1608
+01:02:49,440 --> 01:02:51,936
+it's it's real world problems, solving
+real problems
+
+1609
+01:02:51,936 --> 01:02:53,808
+which we love we love, solving real
+problems. So,
+
+1610
+01:02:53,952 --> 01:02:54,960
+hey, thanks for joining me.
+
+1611
+01:02:54,960 --> 01:02:58,032
+Were really excited about our partnership
+
+1612
+01:02:58,032 --> 01:03:00,960
+with coherent like, and we wish you great
+success. Thank you, says,
+
+1613
+01:03:10,184 --> 01:03:10,984
+yeah. This
+
+1614
+01:03:11,520 --> 01:03:15,024
+because I'm betting converting things in
+the vectors, doing these generative ai.
+
+1615
+01:03:15,024 --> 01:03:16,224
+This is real magic,
+
+1616
+01:03:16,896 --> 01:03:18,912
+and it's great to meet a real magician,
+
+1617
+01:03:19,088 --> 01:03:19,888
+all right.
+
+1618
+01:03:20,544 --> 01:03:24,144
+So we talked a little bit of a rag, this
+retrieval, augmented generation.
+
+1619
+01:03:24,240 --> 01:03:27,072
+But generally I can be used for a lot of
+other things also, and
+
+1620
+01:03:27,168 --> 01:03:29,424
+we're working on a number of different
+projects
+
+1621
+01:03:29,552 --> 01:03:30,352
+to
+
+1622
+01:03:30,384 --> 01:03:32,976
+improve productivity using generative ai.
+
+1623
+01:03:33,216 --> 01:03:35,760
+So one of those is to enable developers to
+
+1624
+01:03:36,048 --> 01:03:38,688
+declare intent using natural language.
+
+1625
+01:03:38,832 --> 01:03:40,416
+So would generative ai?
+
+1626
+01:03:40,752 --> 01:03:43,296
+Developers are going to be able to
+generate sequel
+
+1627
+01:03:43,296 --> 01:03:45,600
+queries using natural language,
+
+1628
+01:03:46,032 --> 01:03:47,376
+and the process,
+
+1629
+01:03:47,616 --> 01:03:49,152
+you know, conceptually, is pretty simple.
+
+1630
+01:03:49,248 --> 01:03:50,112
+The developer.
+
+1631
+01:03:50,112 --> 01:03:54,288
+Instead of writing a sequel statement, he
+states what is the tardiness? Hey,
+
+1632
+01:03:54,576 --> 01:03:57,024
+give me the sum of the sales for this
+product
+
+1633
+01:03:57,024 --> 01:03:59,328
+over the last quarter and compared to the
+quarter. Before
+
+1634
+01:03:59,424 --> 01:04:00,576
+something like that,
+
+1635
+01:04:00,728 --> 01:04:01,528
+the
+
+1636
+01:04:01,920 --> 01:04:05,568
+is then takes that and retrieves the
+schema and metadata
+
+1637
+01:04:05,904 --> 01:04:08,304
+that are needed to answer that query.
+
+1638
+01:04:08,928 --> 01:04:09,792
+And then
+
+1639
+01:04:10,224 --> 01:04:12,528
+we take that schema and metadata
+
+1640
+01:04:12,768 --> 01:04:16,128
+along with the user's question and handed
+to the generative ai.
+
+1641
+01:04:16,368 --> 01:04:17,904
+And then the generative ai
+
+1642
+01:04:18,384 --> 01:04:19,200
+uses that
+
+1643
+01:04:19,344 --> 01:04:21,552
+that bundle of content, plus
+
+1644
+01:04:21,744 --> 01:04:23,712
+the description, to generate the sequel
+clerk.
+
+1645
+01:04:23,808 --> 01:04:25,776
+So this is something we're very actively
+working
+
+1646
+01:04:25,776 --> 01:04:27,168
+on at Oracle, and we already have it.
+
+1647
+01:04:27,360 --> 01:04:29,856
+We were demoing it in the in the tech hub
+of.
+
+1648
+01:04:29,856 --> 01:04:31,344
+Will it continue to make it better?
+
+1649
+01:04:32,160 --> 01:04:33,936
+Another thing is that generative AI
+
+1650
+01:04:34,464 --> 01:04:35,280
+would generally ide.
+
+1651
+01:04:35,280 --> 01:04:39,216
+Developers are also going to be able to
+generate the intended usage format,
+
+1652
+01:04:39,552 --> 01:04:41,376
+the stuff that I talked about the duality
+views.
+
+1653
+01:04:41,376 --> 01:04:42,192
+That kind of stuff
+
+1654
+01:04:42,288 --> 01:04:44,304
+will be used, generally ai to generate
+those
+
+1655
+01:04:44,304 --> 01:04:46,032
+things for you, so don't even have to
+write them.
+
+1656
+01:04:46,616 --> 01:04:47,416
+And then
+
+1657
+01:04:47,568 --> 01:04:49,536
+a 3rd thing is that
+
+1658
+01:04:50,064 --> 01:04:53,568
+we're going to use generative ai to enable
+local developers
+
+1659
+01:04:53,808 --> 01:04:56,736
+to use natural language to create
+applications.
+
+1660
+01:04:57,120 --> 01:04:58,608
+So using that
+
+1661
+01:04:59,808 --> 01:05:01,872
+our low-code Apex and generally vi,
+
+1662
+01:05:02,160 --> 01:05:04,416
+you'll generate application blueprints.
+
+1663
+01:05:04,416 --> 01:05:06,096
+So so Apex has something called
+
+1664
+01:05:06,384 --> 01:05:10,176
+a blueprint, which is basically a
+description of the app that you want.
+
+1665
+01:05:10,656 --> 01:05:12,960
+And so what the general area has to do is
+take
+
+1666
+01:05:13,200 --> 01:05:14,976
+your natural language query
+
+1667
+01:05:15,080 --> 01:05:15,880
+and just
+
+1668
+01:05:15,936 --> 01:05:19,680
+translate it into this language, which is
+basically an apt description language.
+
+1669
+01:05:20,112 --> 01:05:21,600
+And again, it's pretty simple.
+
+1670
+01:05:21,600 --> 01:05:22,656
+Conceptually,
+
+1671
+01:05:22,848 --> 01:05:25,344
+the developer provides a description of
+the app.
+
+1672
+01:05:25,824 --> 01:05:28,800
+We gather up all the schema and metadata
+that's needed.
+
+1673
+01:05:29,280 --> 01:05:30,240
+We take all that
+
+1674
+01:05:30,336 --> 01:05:32,640
+handed to the generative ai along with the
+question,
+
+1675
+01:05:32,832 --> 01:05:35,328
+and then we specially train
+
+1676
+01:05:35,472 --> 01:05:36,720
+the generative ai
+
+1677
+01:05:36,912 --> 01:05:40,032
+on this language, this blueprint language
+for generating
+
+1678
+01:05:40,656 --> 01:05:41,568
+generating apps,
+
+1679
+01:05:41,664 --> 01:05:44,640
+so it can generate the blueprint for the
+new app
+
+1680
+01:05:45,216 --> 01:05:46,656
+so very cool stuff.
+
+1681
+01:05:47,904 --> 01:05:48,960
+And then finally,
+
+1682
+01:05:49,440 --> 01:05:51,600
+theatre professionals are also going to
+use generative
+
+1683
+01:05:51,648 --> 01:05:53,712
+AI, mean they're also using ai. To date,
+
+1684
+01:05:53,952 --> 01:05:55,872
+we've introduced a lot of ai technology,
+
+1685
+01:05:56,544 --> 01:05:58,512
+and the main thing we're using ai
+
+1686
+01:05:58,752 --> 01:06:01,152
+today, for is to free developers.
+
+1687
+01:06:01,728 --> 01:06:04,368
+I'm sorry to free data professionals to
+pursue intense. So,
+
+1688
+01:06:04,608 --> 01:06:08,064
+for example, we have our autonomous
+database that uses ai to
+
+1689
+01:06:08,064 --> 01:06:11,520
+eliminate things like routine management,
+like patching, security, scaling.
+
+1690
+01:06:11,808 --> 01:06:12,816
+We've done a lot of work.
+
+1691
+01:06:12,864 --> 01:06:16,368
+I'm using the ai to find and fix workload
+issues, find
+
+1692
+01:06:16,464 --> 01:06:17,472
+and identify
+
+1693
+01:06:18,048 --> 01:06:19,536
+any kind of slowdowns,
+
+1694
+01:06:19,728 --> 01:06:20,736
+any kind of
+
+1695
+01:06:21,984 --> 01:06:24,960
+looking forward, things that we think
+might break or might exhaust.
+
+1696
+01:06:25,104 --> 01:06:27,936
+So we're using the ai technology
+internally
+
+1697
+01:06:28,080 --> 01:06:29,184
+to free database.
+
+1698
+01:06:29,184 --> 01:06:30,672
+Professors like to go, do
+
+1699
+01:06:31,104 --> 01:06:32,832
+work with application developers to
+
+1700
+01:06:32,832 --> 01:06:34,560
+develop applications faster, because
+that's
+
+1701
+01:06:34,704 --> 01:06:36,528
+where the real productivity is coming
+from.
+
+1702
+01:06:37,208 --> 01:06:38,008
+Okay,
+
+1703
+01:06:38,160 --> 01:06:42,192
+so we've talked a lot of about these
+benefits of ai.
+
+1704
+01:06:44,352 --> 01:06:45,456
+Are there limits to this?
+
+1705
+01:06:45,456 --> 01:06:47,184
+How far can it really go?
+
+1706
+01:06:47,232 --> 01:06:49,104
+How hard can you get with generative ai?
+
+1707
+01:06:50,304 --> 01:06:53,232
+Can generate, actually replace experts?
+
+1708
+01:06:53,568 --> 01:06:54,912
+Do you need experts anymore?
+
+1709
+01:06:56,304 --> 01:06:57,168
+Well,
+
+1710
+01:06:57,360 --> 01:07:00,240
+a you really do still need experts,
+because generally
+
+1711
+01:07:00,240 --> 01:07:02,640
+I can't really generate a complete
+solution.
+
+1712
+01:07:02,928 --> 01:07:05,328
+What it really does is generate a 1st
+draft,
+
+1713
+01:07:05,760 --> 01:07:08,784
+and then an expert has to come in and
+understand that
+
+1714
+01:07:08,784 --> 01:07:11,472
+1st draft, whether it's the sequel
+statement the app.
+
+1715
+01:07:12,008 --> 01:07:12,808
+And
+
+1716
+01:07:12,816 --> 01:07:14,688
+then they have to validate that it's
+correct.
+
+1717
+01:07:14,688 --> 01:07:15,696
+They have to correct it.
+
+1718
+01:07:15,696 --> 01:07:17,280
+If it's not in, they have to evolve it. As
+
+1719
+01:07:17,376 --> 01:07:18,528
+as the future goes on.
+
+1720
+01:07:20,544 --> 01:07:22,080
+To get a little more specific.
+
+1721
+01:07:23,088 --> 01:07:27,360
+Will generative AI be able to generate the
+application code
+
+1722
+01:07:27,648 --> 01:07:30,432
+that businesses use to solve their
+detonates. So can you just
+
+1723
+01:07:30,528 --> 01:07:31,968
+hear a lot about cogeneration?
+
+1724
+01:07:32,304 --> 01:07:33,840
+Can you generate the code for that?
+
+1725
+01:07:34,560 --> 01:07:36,048
+Well,
+
+1726
+01:07:36,336 --> 01:07:38,016
+there's really 2 answers to this.
+
+1727
+01:07:38,160 --> 01:07:39,360
+1st of all, it can't
+
+1728
+01:07:39,888 --> 01:07:40,896
+and 2nd of all
+
+1729
+01:07:41,040 --> 01:07:41,856
+so degenerate.
+
+1730
+01:07:41,904 --> 01:07:45,024
+A full app might require 100 of 1000 of
+lines of code.
+
+1731
+01:07:46,464 --> 01:07:48,384
+So 1st, I really can't do that.
+
+1732
+01:07:48,864 --> 01:07:50,448
+And the 2nd thing is,
+
+1733
+01:07:51,168 --> 01:07:54,768
+even if it could, let's say, could
+generate 200,000 lines of Java
+
+1734
+01:07:55,200 --> 01:07:56,352
+to implement your app.
+
+1735
+01:07:57,456 --> 01:07:59,088
+If it generated 200,000
+
+1736
+01:07:59,184 --> 01:08:01,104
+lines of Java, that's going to be handed
+to an,
+
+1737
+01:08:01,728 --> 01:08:05,520
+and they have to understand that, verify
+it, maintained an extended
+
+1738
+01:08:06,096 --> 01:08:08,064
+and that's really not a fun process.
+
+1739
+01:08:08,064 --> 01:08:09,168
+That's a lot of code
+
+1740
+01:08:09,984 --> 01:08:11,232
+and they didn't develop it.
+
+1741
+01:08:12,000 --> 01:08:16,320
+So it's not a good idea to generate 100 of
+1000 of lines of code.
+
+1742
+01:08:16,616 --> 01:08:17,416
+So
+
+1743
+01:08:17,760 --> 01:08:20,064
+what we see the future, as is
+
+1744
+01:08:20,352 --> 01:08:21,552
+the ai, is going to
+
+1745
+01:08:21,792 --> 01:08:23,424
+generate declarative intent.
+
+1746
+01:08:23,568 --> 01:08:24,384
+That same thing.
+
+1747
+01:08:24,480 --> 01:08:26,640
+Tell me what you want, not how to do it.
+
+1748
+01:08:26,880 --> 01:08:28,704
+So it will generate,
+
+1749
+01:08:28,896 --> 01:08:30,960
+take your your description
+
+1750
+01:08:31,200 --> 01:08:32,688
+and generate a
+
+1751
+01:08:32,784 --> 01:08:35,088
+blueprint, like an Apex blueprint that
+says
+
+1752
+01:08:35,184 --> 01:08:38,400
+here is what you want in the specific
+language of
+
+1753
+01:08:38,592 --> 01:08:39,552
+implementing an app,
+
+1754
+01:08:40,704 --> 01:08:43,104
+and of course, you know, generated apps
+will be
+
+1755
+01:08:43,104 --> 01:08:45,216
+simpler, more reliable and extensible
+
+1756
+01:08:45,360 --> 01:08:48,336
+if they generate app blueprints, instead
+of trying to generate.
+
+1757
+01:08:48,336 --> 01:08:49,728
+You know, 200,000 lines of code.
+
+1758
+01:08:49,728 --> 01:08:51,648
+That then some developer has to deal with.
+
+1759
+01:08:51,800 --> 01:08:52,600
+Okay,
+
+1760
+01:08:53,040 --> 01:08:54,240
+so let's back up
+
+1761
+01:08:54,768 --> 01:08:55,920
+and talk about.
+
+1762
+01:08:56,016 --> 01:08:58,512
+You know all the things that we discussed
+today.
+
+1763
+01:08:58,608 --> 01:09:00,624
+What is the future of data and appdev?
+
+1764
+01:09:00,968 --> 01:09:01,768
+So, 1st of
+
+1765
+01:09:01,968 --> 01:09:03,120
+we started by saying
+
+1766
+01:09:03,216 --> 01:09:05,328
+that the relational model
+
+1767
+01:09:05,616 --> 01:09:08,928
+provides the most solid foundation for
+building apps. Why
+
+1768
+01:09:09,168 --> 01:09:11,472
+does this is very clean logical model?
+
+1769
+01:09:11,472 --> 01:09:14,640
+You got normalized tables, you ensure data
+consistency.
+
+1770
+01:09:14,736 --> 01:09:15,792
+It also has
+
+1771
+01:09:15,888 --> 01:09:18,528
+a sequel language which allows
+
+1772
+01:09:18,704 --> 01:09:19,504
+you to declare
+
+1773
+01:09:19,584 --> 01:09:22,656
+declarative intent, which is much more
+productive than writing code.
+
+1774
+01:09:23,616 --> 01:09:26,256
+Those little lines of siegel I showed you
+would take 100,000
+
+1775
+01:09:26,256 --> 01:09:27,792
+of lines of code to implement.
+
+1776
+01:09:28,992 --> 01:09:33,072
+Also, relational database separates the
+logical model from the storage model, so
+
+1777
+01:09:33,072 --> 01:09:36,816
+this enables all sorts of transparent
+application optimization. So
+
+1778
+01:09:37,056 --> 01:09:38,352
+because of that,
+
+1779
+01:09:38,784 --> 01:09:42,384
+underneath the covers, we can implement
+indexes, parallel sequel,
+
+1780
+01:09:42,384 --> 01:09:44,832
+denormalization, partitioning, exadata,
+all these things,
+
+1781
+01:09:44,928 --> 01:09:47,280
+and the application is completely not
+effective.
+
+1782
+01:09:47,568 --> 01:09:49,632
+So this is the beauty of the relational
+model.
+
+1783
+01:09:50,360 --> 01:09:51,160
+Now
+
+1784
+01:09:51,312 --> 01:09:52,128
+what's happened is
+
+1785
+01:09:52,800 --> 01:09:54,432
+some apps and developers
+
+1786
+01:09:55,056 --> 01:09:58,032
+say, hey, this relational thing is kind of
+inconvenient.
+
+1787
+01:09:58,032 --> 01:09:58,848
+I don't really like it.
+
+1788
+01:09:58,848 --> 01:10:01,536
+What I really want to work in is in terms
+of Jason
+
+1789
+01:10:01,872 --> 01:10:03,216
+or in terms of graph,
+
+1790
+01:10:03,840 --> 01:10:05,664
+and that's created a mismatch
+
+1791
+01:10:06,096 --> 01:10:08,112
+between what developers want
+
+1792
+01:10:08,352 --> 01:10:11,328
+and what the relational database is
+provided,
+
+1793
+01:10:11,616 --> 01:10:13,248
+which complicates the app dev.
+
+1794
+01:10:14,256 --> 01:10:15,648
+So to satisfy
+
+1795
+01:10:16,080 --> 01:10:16,944
+these preferences,
+
+1796
+01:10:17,184 --> 01:10:18,672
+what the developers want,
+
+1797
+01:10:18,960 --> 01:10:19,920
+what's happened is
+
+1798
+01:10:20,160 --> 01:10:22,800
+the world of data has split into pieces,
+
+1799
+01:10:23,480 --> 01:10:24,280
+so
+
+1800
+01:10:24,432 --> 01:10:27,024
+we've created a world in which there's
+
+1801
+01:10:27,120 --> 01:10:28,176
+Jason apps
+
+1802
+01:10:28,752 --> 01:10:30,240
+and Jason databases
+
+1803
+01:10:30,384 --> 01:10:31,776
+with Jason storage
+
+1804
+01:10:32,352 --> 01:10:34,464
+in another world in which there's graph
+apps
+
+1805
+01:10:35,024 --> 01:10:35,824
+and
+
+1806
+01:10:37,152 --> 01:10:38,976
+databases and graphs storage.
+
+1807
+01:10:39,216 --> 01:10:41,328
+And then we have the traditional
+relational database. So
+
+1808
+01:10:41,568 --> 01:10:43,920
+the world of data, it's kind of split into
+these,
+
+1809
+01:10:44,064 --> 01:10:45,936
+these worlds that don't talk to each other
+
+1810
+01:10:46,272 --> 01:10:47,856
+and are completely separated.
+
+1811
+01:10:48,864 --> 01:10:50,880
+And what we're doing with duality views
+
+1812
+01:10:51,264 --> 01:10:53,232
+is we're bringing all this back together,
+
+1813
+01:10:53,424 --> 01:10:54,480
+we're bringing back
+
+1814
+01:10:55,200 --> 01:10:57,840
+app them together, we're bringing back
+data together.
+
+1815
+01:10:58,464 --> 01:11:01,824
+So the idea is that the Jason duality and
+graph you
+
+1816
+01:11:01,968 --> 01:11:04,080
+generate the app's preferred format,
+
+1817
+01:11:04,464 --> 01:11:06,240
+and of course, we have all we built this.
+
+1818
+01:11:06,240 --> 01:11:08,640
+This isn't just some layer on top of the
+database,
+
+1819
+01:11:08,744 --> 01:11:09,544
+it's
+
+1820
+01:11:09,552 --> 01:11:11,616
+it's built into the core of the database.
+
+1821
+01:11:11,616 --> 01:11:15,744
+Was built special transaction processing
+models, special optimization models,
+
+1822
+01:11:18,944 --> 01:11:19,744
+all right,
+
+1823
+01:11:20,592 --> 01:11:23,520
+and what this allows is much more
+flexibility.
+
+1824
+01:11:23,520 --> 01:11:26,448
+It's much more powerful for developers
+could they can choose the
+
+1825
+01:11:26,936 --> 01:11:27,736
+format
+
+1826
+01:11:27,792 --> 01:11:29,808
+by use case and will generate.
+
+1827
+01:11:29,952 --> 01:11:31,296
+So if you have a single app,
+
+1828
+01:11:31,728 --> 01:11:32,928
+that app can choose to
+
+1829
+01:11:33,552 --> 01:11:35,952
+part of what its data access, using Jason,
+
+1830
+01:11:36,144 --> 01:11:38,352
+part of it, using relational part of it,
+using grep.
+
+1831
+01:11:38,544 --> 01:11:42,192
+You don't have to pick one storage format,
+and that determines everything.
+
+1832
+01:11:42,432 --> 01:11:46,176
+So you get the ultimate in flexibility to
+get use
+
+1833
+01:11:46,272 --> 01:11:47,328
+centric data
+
+1834
+01:11:48,048 --> 01:11:49,632
+and you center data
+
+1835
+01:11:49,776 --> 01:11:52,512
+enables simpler application development.
+
+1836
+01:11:52,664 --> 01:11:53,464
+Okay,
+
+1837
+01:11:53,760 --> 01:11:55,056
+and on top of that
+
+1838
+01:11:55,584 --> 01:11:58,176
+we're generating apps using low-code
+
+1839
+01:11:58,416 --> 01:12:00,096
+to accelerate productivity. So
+
+1840
+01:12:00,240 --> 01:12:03,504
+the Apex low-code build on top of these
+duele views,
+
+1841
+01:12:03,696 --> 01:12:07,008
+and it delivers simplicity without limits
+for enterprise apps,
+
+1842
+01:12:07,088 --> 01:12:07,888
+so that's
+
+1843
+01:12:07,968 --> 01:12:10,992
+the low code. On top of that, and then, on
+top of that, we add
+
+1844
+01:12:10,992 --> 01:12:13,440
+ai to further accelerate productivity.
+
+1845
+01:12:13,824 --> 01:12:15,600
+So there's a number of things we've done
+for free.
+
+1846
+01:12:15,600 --> 01:12:19,392
+I talked about. We've added AI vectors as
+a native datatype,
+
+1847
+01:12:19,488 --> 01:12:21,888
+first-class data type, into the Oracle
+database.
+
+1848
+01:12:22,416 --> 01:12:23,712
+You can combine
+
+1849
+01:12:23,904 --> 01:12:27,888
+the vector search, this amended context
+search, with business data search to get
+
+1850
+01:12:28,080 --> 01:12:29,568
+true business results,
+
+1851
+01:12:29,952 --> 01:12:32,592
+and then you can layer the generative ai
+on top
+
+1852
+01:12:32,928 --> 01:12:36,720
+to a Nile things like natural language
+questions, generating Jason,
+
+1853
+01:12:36,720 --> 01:12:40,272
+duality, generating sequel, generating
+Apex blueprints.
+
+1854
+01:12:40,704 --> 01:12:43,056
+So all these things that I've talked about
+work together,
+
+1855
+01:12:43,056 --> 01:12:44,976
+those 3 transformational changes
+
+1856
+01:12:45,168 --> 01:12:46,944
+can all be layered on top of each other
+
+1857
+01:12:47,088 --> 01:12:47,952
+to create
+
+1858
+01:12:48,288 --> 01:12:50,640
+a massive improvement in productivity
+
+1859
+01:12:51,504 --> 01:12:53,472
+allright. So these are the key takeaways
+for today.
+
+1860
+01:12:53,664 --> 01:12:55,728
+Number one, we're entering a new age
+
+1861
+01:12:56,688 --> 01:12:59,568
+where we're getting more and more
+declarative intent of the stack
+
+1862
+01:12:59,904 --> 01:13:01,680
+and its accelerated by ai
+
+1863
+01:13:02,352 --> 01:13:03,552
+number 2.
+
+1864
+01:13:03,744 --> 01:13:07,296
+All these different kinds of users will
+generate solutions
+
+1865
+01:13:07,344 --> 01:13:10,464
+instead of hand-coding them pencoed, and
+will become rarer and rarer.
+
+1866
+01:13:10,896 --> 01:13:12,240
+And number 3,
+
+1867
+01:13:12,384 --> 01:13:14,640
+all this together is going to enable
+radical
+
+1868
+01:13:14,640 --> 01:13:16,704
+improvements in app that productivity.
+These are
+
+1869
+01:13:16,800 --> 01:13:19,488
+huge changes that are happening in the
+world of data,
+
+1870
+01:13:19,680 --> 01:13:21,216
+and they're all coming together,
+
+1871
+01:13:21,504 --> 01:13:23,760
+and over the next few years we're going to
+see
+
+1872
+01:13:23,952 --> 01:13:25,776
+the world completely change
+
+1873
+01:13:26,064 --> 01:13:27,072
+in terms of
+
+1874
+01:13:27,264 --> 01:13:28,176
+data and app tabs.
+
+1875
+01:13:28,608 --> 01:13:30,576
+All right. So thanks for coming today.
+
+1876
+01:13:31,440 --> 01:13:34,800
+I encourage you to embrace these changes,
+to reap the rewards,
+
+1877
+01:13:35,288 --> 01:13:36,816
+and there's a lot
+
+1878
+01:13:36,960 --> 01:13:39,216
+happening here at cloud world.
+
+1879
+01:13:39,408 --> 01:13:42,144
+You can go to our database world lounge on
+the 3rd floor
+
+1880
+01:13:42,288 --> 01:13:44,352
+and you can talk to our experts in person.
+
+1881
+01:13:44,592 --> 01:13:47,328
+You can go over to the tech hub and you'll
+see a lot of this
+
+1882
+01:13:47,424 --> 01:13:49,536
+technology that I've talked about being
+demoed.
+
+1883
+01:13:49,632 --> 01:13:52,656
+How use generally the ai vector databases
+duality viewed?
+
+1884
+01:13:52,656 --> 01:13:54,768
+You can see all that inaction, ask
+questions,
+
+1885
+01:13:54,912 --> 01:13:55,968
+get familiar with it,
+
+1886
+01:13:56,208 --> 01:13:57,216
+or you can use this
+
+1887
+01:13:57,456 --> 01:13:58,272
+QR Code
+
+1888
+01:13:58,416 --> 01:13:59,856
+to get a lot more information.
+
+1889
+01:14:00,384 --> 01:14:02,448
+All right. Hope you enjoyed this today and
+thanks for coming.
+

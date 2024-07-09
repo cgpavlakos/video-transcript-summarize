@@ -1,0 +1,10 @@
+Summarize this transcript with both an overview and detailed bullet points. Start with an overview in a couple of sentences. After that use bullet points to provide plenty of detail. Your response should be 1-2 pages long. 
+
+Example output: 
+## Overview
+Short overview of the entire transcript. This is 2-3 sentences long. 
+## Details
+- Detail of discussion 1
+- Detail of discussion 2 
+- Detail of discussion 3 
+... and so on
